@@ -1,5 +1,4 @@
-
-![alt text](<../CÍCLOPE (2).png>)
+<img width="1280" height="640" alt="CÍCLOPE (2)" src="https://github.com/user-attachments/assets/40676aaa-53c1-4443-b798-6c4357d5a387" />
 
 ---
 **MIT License**
