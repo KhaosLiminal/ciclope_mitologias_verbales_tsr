@@ -1,0 +1,173 @@
+{
+  "proyecto": {
+    "nombre": "Cíclope: Mitologías Verbales (TSR101-120)",
+    "autor": "Sarayu Aguilar",
+    "version": "1.0",
+    "fecha_inicio": "2024-11-01",
+    "ultima_actualizacion": "2026-02-14",
+    "descripcion": "Sistema pedagógico de lectura de segundo orden. Serie de 20 documentos (TSR101-TSR120) sobre teoría crítica aplicada a autoría algorítmica, reproductibilidad técnica, y pedagogía cultural."
+  },
+  "arquitectura_capas": {
+    "total_capas": 8,
+    "capas": {
+      "CAPA0": {
+        "nombre": "Semilla conceptual",
+        "archivo": "TSR101-120QUOTES.md",
+        "funcion": "20 fragmentos fundacionales que definen conceptos nucleares",
+        "dependencias": [],
+        "estado": "completa",
+        "fecha_completada": "2024-12-15"
+      },
+      "CAPA1": {
+        "nombre": "Bibliografía verificada",
+        "archivo": "TSR_CAPA1_FINAL.json",
+        "funcion": "235 fuentes académicas distribuidas en 19 TSR",
+        "dependencias": ["CAPA0"],
+        "estado": "completa",
+        "fecha_completada": "2026-01-20",
+        "notas": "Algunas URLs faltantes en TSR103, TSR105. Pendiente validación."
+      },
+      "CAPA2": {
+        "nombre": "Genealogía conceptual",
+        "archivo": "TSR_CAPA2_FINAL.json",
+        "funcion": "19 genealogías (650-800 palabras c/u) que rastrean origen histórico de conceptos",
+        "dependencias": ["CAPA0", "CAPA1"],
+        "estado": "completa",
+        "fecha_completada": "2026-02-14",
+        "versiones": {
+          "v1_sonar": "Generada con Perplexity Sonar. Tono académico neutro.",
+          "v2_claude": "Generada con Claude Sonnet 4.5. Tono crítico-poético con consciencia liminal."
+        },
+        "version_seleccionada": "v2_claude",
+        "pendiente": "Integrar citas [1][2][3] de Sonar en versión Claude"
+      },
+      "CAPA3": {
+        "nombre": "Problematización contemporánea",
+        "archivo": "TSR_CAPA3_FINAL.json",
+        "funcion": "19 problematizaciones (1000-1500 palabras c/u) que conectan conceptos con IA, NFT, algoritmos, plataformas",
+        "dependencias": ["CAPA0", "CAPA1", "CAPA2"],
+        "estado": "pendiente",
+        "requisitos_especiales": [
+          "Debe importar GLOSARIO_CICLOPE.json",
+          "Debe referenciar definiciones de CAPA2",
+          "Debe abrir preguntas hacia presente (no cerrarlas)"
+        ]
+      },
+      "CAPA4": {
+        "nombre": "Resonancias Reflejos Híbridos",
+        "archivo": "TSR_CAPA4_FINAL.json",
+        "funcion": "19 resonancias (400-600 palabras c/u) que conectan conceptos con universo narrativo/visual RH",
+        "dependencias": ["CAPA0", "CAPA2", "CAPA3"],
+        "estado": "pendiente",
+        "requisitos_especiales": [
+          "Conexión explícita con serie visual Cíclope",
+          "Identidades fragmentadas / Archivos generativos / Materialidad-desmaterialización"
+        ]
+      },
+      "CAPA5": {
+        "nombre": "Meta-análisis (TSR aplicado al TSR)",
+        "archivo": "TSR_CAPA5_FINAL.json",
+        "funcion": "19 meta-análisis (600-800 palabras c/u) donde cada TSR se aplica a sí mismo",
+        "dependencias": ["CAPA0", "CAPA2", "CAPA3"],
+        "estado": "pendiente",
+        "requisitos_especiales": [
+          "Crítica auto-aplicada",
+          "Exponer contradicciones sin resolverlas",
+          "Glitch como método"
+        ]
+      },
+      "CAPA6": {
+        "nombre": "Guiones de taller",
+        "archivo": "TSR_CAPA6_FINAL.json",
+        "funcion": "19 guiones (300-500 palabras c/u) con actividades pedagógicas operativas",
+        "dependencias": ["CAPA2", "CAPA3"],
+        "estado": "pendiente",
+        "requisitos_especiales": [
+          "3 contextos: Docencia, Mediación, Gestión Cultural",
+          "Ejercicios ejecutables",
+          "Evaluación de segundo orden (proceso, no resultado)"
+        ]
+      },
+      "CAPA7": {
+        "nombre": "Casos de estudio",
+        "archivo": "TSR_CAPA7_FINAL.json",
+        "funcion": "19 casos (400-600 palabras c/u) que ejemplifican aplicación del TSR",
+        "dependencias": ["CAPA2", "CAPA3", "CAPA6"],
+        "estado": "pendiente",
+        "requisitos_especiales": [
+          "Análisis de texto híbrido real",
+          "Aplicación marco TSR en 4 pasos",
+          "Demuestra método funcionando"
+        ]
+      }
+    }
+  },
+  "tsr_estructura": {
+    "total_tsr": 19,
+    "rango": [102, 120],
+    "clusters": {
+      "CLUSTER_I": {
+        "nombre": "Autoría, Escritura, Fragmento",
+        "tsr": [102, 103, 104, 105]
+      },
+      "CLUSTER_II": {
+        "nombre": "Pigmentos, Color, Mercado, Poder",
+        "tsr": [106, 107, 108, 109, 110]
+      },
+      "CLUSTER_III": {
+        "nombre": "Origen de la Escritura",
+        "tsr": [111, 112]
+      },
+      "CLUSTER_IV": {
+        "nombre": "Semiótica, Interpretación, Crítica",
+        "tsr": [113, 114, 115]
+      },
+      "CLUSTER_V": {
+        "nombre": "Fragmento, Aforismo, Forma Breve",
+        "tsr": [116, 117]
+      },
+      "CLUSTER_VI": {
+        "nombre": "Segunda Orden, Pedagogía, Aprendizaje",
+        "tsr": [118, 119, 120]
+      }
+    }
+  },
+  "validacion_coherencia": {
+    "glosario_compartido": "GLOSARIO_CICLOPE.json",
+    "terminos_clave_rastreados": [
+      "fragmento",
+      "aura",
+      "autor",
+      "archivo",
+      "episteme",
+      "lectura de segundo orden",
+      "glitch",
+      "Reflejos Híbridos"
+    ],
+    "reglas_coherencia": [
+      "Términos deben usarse según definiciones del glosario",
+      "Divergencias deben declararse explícitamente",
+      "Capas posteriores pueden referenciar capas anteriores",
+      "Ninguna capa puede contradecir capas previas sin declarar tensión dialéctica"
+    ]
+  },
+  "exportacion_final": {
+    "formato_tsr_completo": "markdown",
+    "estructura_compilada": {
+      "I": "Genealogía del concepto (CAPA2: 650-800 palabras)",
+      "II": "Problematización contemporánea (CAPA3: 1000-1500 palabras)",
+      "III": "Resonancias Reflejos Híbridos (CAPA4: 400-600 palabras)",
+      "IV": "Glitch Final (CAPA5: 600-800 palabras)",
+      "V": "Aplicación Pedagógica (CAPA6: 300-500 palabras)",
+      "VI": "Caso de Estudio (CAPA7: 400-600 palabras)",
+      "Bibliografía": "CAPA1"
+    },
+    "extension_total_estimada": "4000-5500 palabras por TSR",
+    "formato_distribucion": {
+      "digital": "PDF diseñado",
+      "taller": "Video grabado 60 min",
+      "visual": "Grabado coleccionable 300dpi PNG",
+      "comunidad": "Fragmentos semanales Substack"
+    }
+  }
+}

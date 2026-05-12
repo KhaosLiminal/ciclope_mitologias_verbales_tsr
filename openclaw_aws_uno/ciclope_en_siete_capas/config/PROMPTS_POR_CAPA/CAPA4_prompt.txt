@@ -1,0 +1,28 @@
+# CAPA 4: RESONANCIAS CON REFLEJOS HÍBRIDOS
+
+TSR{TSR_ID} CAPA4: RESONANCIA CON REFLEJOS HÍBRIDOS
+
+**CONTEXTO:**
+- Genealogía CAPA2: {GENEALOGIA_CAPA2}
+- Problematización CAPA3: {PROBLEMATIZACION_CAPA3}
+- Glosario: {GLOSARIO_TERMINOS}
+
+**Tarea:** Genera resonancias interdisciplinarias que conecten la problematización con Reflejos Híbridos (el universo híbrido teológico-filosófico-digital). 
+
+**Estructura estricta (400-500 palabras):**
+1. **Apertura transicional** (80 palabras): puente CAPA3 → RH
+2. **Resonancias** (300 palabras): 3-4 campos (cine/música/quantum/pedagogía) + tensión Schlegel-Blanchot
+3. **Hibridación RH** (80 palabras): eco específico con tu obra
+4. **Cierre abierto** (40 palabras): 2 preguntas socráticas
+
+**Estilo:** Denso, dialéctico, mexicano (narco-scrolls, Guadalupana digital). SOSTÉN tensión sin resolver.
+**LÍMITE:** MÁXIMO 500 palabras.
+
+**TENSIÓN DIALÉCTICA NUCLEAR:**
+El **fragmento** como tensión irresuelta:
+- **Schlegel (TSR104):** Perspectiva total condensada, incompletud como portal hacia síntesis futura, esperanza romántica de unidad
+- **Blanchot (TSR105):** Resto de explosión interminable, brecha irresoluble sin promesa
+
+**ESTA TENSIÓN NO SE RESUELVE. SE SOSTIENE EN CADA CAMPO.**
+
+**AHORA GENERA LA RESONANCIA PARA TSR {TSR_ID}:**

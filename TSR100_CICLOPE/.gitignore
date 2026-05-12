@@ -1,0 +1,40 @@
+# HuggingFace Dataset - Archivos a excluir
+
+# Entornos virtuales
+.venv/
+venv/
+env/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# Configuración de editores
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Configuración de Lingma
+.lingma/
+
+# Archivos de sistema
+.DS_Store
+Thumbs.db
+*.log
+*.tmp
+
+# Git
+.git/
+.gitattributes
+
+# Archivos de compilación
+*.egg-info/
+dist/
+build/
+
+# Notas personales
+NOTAS_PERSONALES.md
+DRAFTS/

@@ -1,0 +1,143 @@
+# CAMINOS ENCONTRADOS EN CAPA 3
+
+Total caminos únicos: 139
+
+• estructura[0].fecha_generacion
+• estructura[0].glosario_utilizado (repr)
+• estructura[0].modelo_usado
+• estructura[0].num_palabras (repr)
+• estructura[0].problematizacion
+• estructura[0].tsr (repr)
+• estructura[0].validacion_extension (repr)
+• estructura[10].fecha_generacion
+• estructura[10].glosario_utilizado (repr)
+• estructura[10].modelo_usado
+• estructura[10].num_palabras (repr)
+• estructura[10].problematizacion
+• estructura[10].tsr (repr)
+• estructura[10].validacion_extension (repr)
+• estructura[11].fecha_generacion
+• estructura[11].glosario_utilizado (repr)
+• estructura[11].modelo_usado
+• estructura[11].num_palabras (repr)
+• estructura[11].problematizacion
+• estructura[11].tsr (repr)
+• estructura[11].validacion_extension (repr)
+• estructura[12].fecha_generacion
+• estructura[12].glosario_utilizado (repr)
+• estructura[12].modelo_usado
+• estructura[12].num_palabras (repr)
+• estructura[12].problematizacion
+• estructura[12].tsr (repr)
+• estructura[12].validacion_extension (repr)
+• estructura[13].fecha_generacion
+• estructura[13].glosario_utilizado (repr)
+• estructura[13].modelo_usado
+• estructura[13].num_palabras (repr)
+• estructura[13].problematizacion
+• estructura[13].tsr (repr)
+• estructura[13].validacion_extension (repr)
+• estructura[14].fecha_generacion
+• estructura[14].glosario_utilizado (repr)
+• estructura[14].modelo_usado
+• estructura[14].num_palabras (repr)
+• estructura[14].problematizacion
+• estructura[14].tsr (repr)
+• estructura[14].validacion_extension (repr)
+• estructura[15].fecha_generacion
+• estructura[15].glosario_utilizado (repr)
+• estructura[15].modelo_usado
+• estructura[15].num_palabras (repr)
+• estructura[15].problematizacion
+• estructura[15].tsr (repr)
+• estructura[15].validacion_extension (repr)
+• estructura[16].fecha_generacion
+• estructura[16].glosario_utilizado (repr)
+• estructura[16].modelo_usado
+• estructura[16].num_palabras (repr)
+• estructura[16].problematizacion
+• estructura[16].tsr (repr)
+• estructura[16].validacion_extension (repr)
+• estructura[17].fecha_generacion
+• estructura[17].glosario_utilizado (repr)
+• estructura[17].modelo_usado
+• estructura[17].num_palabras (repr)
+• estructura[17].problematizacion
+• estructura[17].tsr (repr)
+• estructura[17].validacion_extension (repr)
+• estructura[18].fecha_generacion
+• estructura[18].glosario_utilizado (repr)
+• estructura[18].modelo_usado
+• estructura[18].num_palabras (repr)
+• estructura[18].problematizacion
+• estructura[18].tsr (repr)
+• estructura[18].validacion_extension (repr)
+• estructura[1].fecha_generacion
+• estructura[1].glosario_utilizado (repr)
+• estructura[1].modelo_usado
+• estructura[1].num_palabras (repr)
+• estructura[1].problematizacion
+• estructura[1].tsr (repr)
+• estructura[1].validacion_extension (repr)
+• estructura[2].fecha_generacion
+• estructura[2].glosario_utilizado (repr)
+• estructura[2].modelo_usado
+• estructura[2].num_palabras (repr)
+• estructura[2].problematizacion
+• estructura[2].tsr (repr)
+• estructura[2].validacion_extension (repr)
+• estructura[3].fecha_generacion
+• estructura[3].glosario_utilizado (repr)
+• estructura[3].modelo_usado
+• estructura[3].num_palabras (repr)
+• estructura[3].problematizacion
+• estructura[3].tsr (repr)
+• estructura[3].validacion_extension (repr)
+• estructura[4].fecha_generacion
+• estructura[4].glosario_utilizado (repr)
+• estructura[4].modelo_usado
+• estructura[4].num_palabras (repr)
+• estructura[4].problematizacion
+• estructura[4].tsr (repr)
+• estructura[4].validacion_extension (repr)
+• estructura[5].fecha_generacion
+• estructura[5].glosario_utilizado (repr)
+• estructura[5].modelo_usado
+• estructura[5].num_palabras (repr)
+• estructura[5].problematizacion
+• estructura[5].tsr (repr)
+• estructura[5].validacion_extension (repr)
+• estructura[6].fecha_generacion
+• estructura[6].glosario_utilizado (repr)
+• estructura[6].modelo_usado
+• estructura[6].num_palabras (repr)
+• estructura[6].problematizacion
+• estructura[6].tsr (repr)
+• estructura[6].validacion_extension (repr)
+• estructura[7].fecha_generacion
+• estructura[7].glosario_utilizado (repr)
+• estructura[7].modelo_usado
+• estructura[7].num_palabras (repr)
+• estructura[7].problematizacion
+• estructura[7].tsr (repr)
+• estructura[7].validacion_extension (repr)
+• estructura[8].fecha_generacion
+• estructura[8].glosario_utilizado (repr)
+• estructura[8].modelo_usado
+• estructura[8].num_palabras (repr)
+• estructura[8].problematizacion
+• estructura[8].tsr (repr)
+• estructura[8].validacion_extension (repr)
+• estructura[9].fecha_generacion
+• estructura[9].glosario_utilizado (repr)
+• estructura[9].modelo_usado
+• estructura[9].num_palabras (repr)
+• estructura[9].problematizacion
+• estructura[9].tsr (repr)
+• estructura[9].validacion_extension (repr)
+• metadata.capa
+• metadata.exitosos (repr)
+• metadata.fallidos (repr)
+• metadata.fecha_generacion
+• metadata.modelo
+• metadata.total_tsr (repr)

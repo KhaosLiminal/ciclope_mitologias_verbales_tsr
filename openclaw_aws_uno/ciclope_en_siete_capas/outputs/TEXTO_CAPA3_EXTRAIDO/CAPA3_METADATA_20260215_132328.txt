@@ -1,0 +1,239 @@
+# METADATA EXTRAÍDA DE CAPA 3
+
+**fecha_generacion**: 2026-02-15T12:40:52.808796
+   Camino: `metadata.fecha_generacion`
+
+**total_tsr**: 19
+   Camino: `metadata.total_tsr`
+
+**modelo**: sonar
+   Camino: `metadata.modelo`
+
+**tsr**: 102
+   Camino: `estructura[0].tsr`
+
+**num_palabras**: 1291
+   Camino: `estructura[0].num_palabras`
+
+**modelo_usado**: sonar
+   Camino: `estructura[0].modelo_usado`
+
+**fecha_generacion**: 2026-02-15T12:34:53.300379
+   Camino: `estructura[0].fecha_generacion`
+
+**tsr**: 103
+   Camino: `estructura[1].tsr`
+
+**num_palabras**: 1314
+   Camino: `estructura[1].num_palabras`
+
+**modelo_usado**: sonar
+   Camino: `estructura[1].modelo_usado`
+
+**fecha_generacion**: 2026-02-15T12:35:22.575473
+   Camino: `estructura[1].fecha_generacion`
+
+**tsr**: 104
+   Camino: `estructura[2].tsr`
+
+**num_palabras**: 1052
+   Camino: `estructura[2].num_palabras`
+
+**modelo_usado**: sonar
+   Camino: `estructura[2].modelo_usado`
+
+**fecha_generacion**: 2026-02-15T12:35:40.167249
+   Camino: `estructura[2].fecha_generacion`
+
+**tsr**: 105
+   Camino: `estructura[3].tsr`
+
+**num_palabras**: 1112
+   Camino: `estructura[3].num_palabras`
+
+**modelo_usado**: sonar
+   Camino: `estructura[3].modelo_usado`
+
+**fecha_generacion**: 2026-02-15T12:35:52.877017
+   Camino: `estructura[3].fecha_generacion`
+
+**tsr**: 106
+   Camino: `estructura[4].tsr`
+
+**num_palabras**: 1163
+   Camino: `estructura[4].num_palabras`
+
+**modelo_usado**: sonar
+   Camino: `estructura[4].modelo_usado`
+
+**fecha_generacion**: 2026-02-15T12:36:10.398728
+   Camino: `estructura[4].fecha_generacion`
+
+**tsr**: 107
+   Camino: `estructura[5].tsr`
+
+**num_palabras**: 1046
+   Camino: `estructura[5].num_palabras`
+
+**modelo_usado**: sonar
+   Camino: `estructura[5].modelo_usado`
+
+**fecha_generacion**: 2026-02-15T12:36:28.986197
+   Camino: `estructura[5].fecha_generacion`
+
+**tsr**: 108
+   Camino: `estructura[6].tsr`
+
+**num_palabras**: 1239
+   Camino: `estructura[6].num_palabras`
+
+**modelo_usado**: sonar
+   Camino: `estructura[6].modelo_usado`
+
+**fecha_generacion**: 2026-02-15T12:36:47.460955
+   Camino: `estructura[6].fecha_generacion`
+
+**tsr**: 109
+   Camino: `estructura[7].tsr`
+
+**num_palabras**: 1037
+   Camino: `estructura[7].num_palabras`
+
+**modelo_usado**: sonar
+   Camino: `estructura[7].modelo_usado`
+
+**fecha_generacion**: 2026-02-15T12:37:06.621175
+   Camino: `estructura[7].fecha_generacion`
+
+**tsr**: 110
+   Camino: `estructura[8].tsr`
+
+**num_palabras**: 1047
+   Camino: `estructura[8].num_palabras`
+
+**modelo_usado**: sonar
+   Camino: `estructura[8].modelo_usado`
+
+**fecha_generacion**: 2026-02-15T12:37:23.563773
+   Camino: `estructura[8].fecha_generacion`
+
+**tsr**: 111
+   Camino: `estructura[9].tsr`
+
+**num_palabras**: 1065
+   Camino: `estructura[9].num_palabras`
+
+**modelo_usado**: sonar
+   Camino: `estructura[9].modelo_usado`
+
+**fecha_generacion**: 2026-02-15T12:37:42.946915
+   Camino: `estructura[9].fecha_generacion`
+
+**tsr**: 112
+   Camino: `estructura[10].tsr`
+
+**num_palabras**: 964
+   Camino: `estructura[10].num_palabras`
+
+**modelo_usado**: sonar
+   Camino: `estructura[10].modelo_usado`
+
+**fecha_generacion**: 2026-02-15T12:38:01.794153
+   Camino: `estructura[10].fecha_generacion`
+
+**tsr**: 113
+   Camino: `estructura[11].tsr`
+
+**num_palabras**: 1086
+   Camino: `estructura[11].num_palabras`
+
+**modelo_usado**: sonar
+   Camino: `estructura[11].modelo_usado`
+
+**fecha_generacion**: 2026-02-15T12:38:23.038545
+   Camino: `estructura[11].fecha_generacion`
+
+**tsr**: 114
+   Camino: `estructura[12].tsr`
+
+**num_palabras**: 1114
+   Camino: `estructura[12].num_palabras`
+
+**modelo_usado**: sonar
+   Camino: `estructura[12].modelo_usado`
+
+**fecha_generacion**: 2026-02-15T12:38:40.228936
+   Camino: `estructura[12].fecha_generacion`
+
+**tsr**: 115
+   Camino: `estructura[13].tsr`
+
+**num_palabras**: 1068
+   Camino: `estructura[13].num_palabras`
+
+**modelo_usado**: sonar
+   Camino: `estructura[13].modelo_usado`
+
+**fecha_generacion**: 2026-02-15T12:38:58.480279
+   Camino: `estructura[13].fecha_generacion`
+
+**tsr**: 116
+   Camino: `estructura[14].tsr`
+
+**num_palabras**: 1054
+   Camino: `estructura[14].num_palabras`
+
+**modelo_usado**: sonar
+   Camino: `estructura[14].modelo_usado`
+
+**fecha_generacion**: 2026-02-15T12:39:15.879742
+   Camino: `estructura[14].fecha_generacion`
+
+**tsr**: 117
+   Camino: `estructura[15].tsr`
+
+**num_palabras**: 1225
+   Camino: `estructura[15].num_palabras`
+
+**modelo_usado**: sonar
+   Camino: `estructura[15].modelo_usado`
+
+**fecha_generacion**: 2026-02-15T12:39:43.796900
+   Camino: `estructura[15].fecha_generacion`
+
+**tsr**: 118
+   Camino: `estructura[16].tsr`
+
+**num_palabras**: 1141
+   Camino: `estructura[16].num_palabras`
+
+**modelo_usado**: sonar
+   Camino: `estructura[16].modelo_usado`
+
+**fecha_generacion**: 2026-02-15T12:40:03.197538
+   Camino: `estructura[16].fecha_generacion`
+
+**tsr**: 119
+   Camino: `estructura[17].tsr`
+
+**num_palabras**: 1055
+   Camino: `estructura[17].num_palabras`
+
+**modelo_usado**: sonar
+   Camino: `estructura[17].modelo_usado`
+
+**fecha_generacion**: 2026-02-15T12:40:23.790890
+   Camino: `estructura[17].fecha_generacion`
+
+**tsr**: 120
+   Camino: `estructura[18].tsr`
+
+**num_palabras**: 1122
+   Camino: `estructura[18].num_palabras`
+
+**modelo_usado**: sonar
+   Camino: `estructura[18].modelo_usado`
+
+**fecha_generacion**: 2026-02-15T12:40:52.808786
+   Camino: `estructura[18].fecha_generacion`
+

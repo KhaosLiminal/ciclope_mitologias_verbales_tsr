@@ -1,0 +1,125 @@
+{
+  "metadata": {
+    "version": "1.0",
+    "fecha_creacion": "2026-02-14",
+    "proposito": "Definiciones canónicas de términos clave usados en TSR101-120. Todas las capas deben importar este glosario para mantener coherencia conceptual.",
+    "instrucciones_uso": "Scripts de generación de capas deben validar que los términos se usen según estas definiciones. Si una capa necesita usar un término de manera divergente, debe declararlo explícitamente como 'tensión dialéctica'."
+  },
+  "terminos_nucleares": {
+    "fragmento": {
+      "definicion_schlegel": "Perspectiva total condensada. Incompletud como forma de lo ilimitado, no defecto sino portal hacia síntesis futura. (Romántico: esperanza de unidad)",
+      "definicion_blanchot": "Resto de explosión que nunca termina. No precede ni completa nada. Se dice fuera del todo y después de él. (Postestructuralista: brecha irresoluble)",
+      "tension_dialectica": "TSR104 vs TSR105. Schlegel = fragmento con promesa. Blanchot = fragmento sin promesa. Esta tensión NO se resuelve, se sostiene.",
+      "uso_en_capas": {
+        "CAPA2": "Genealogía histórica de ambas posiciones",
+        "CAPA3": "Fragmento digital (tweets, prompts) como actualización contemporánea",
+        "CAPA4": "Rostro fragmentado de Cíclope como ejecución visual",
+        "CAPA5": "TSR como fragmento aplicándose a sí mismo"
+      }
+    },
+    "aura": {
+      "definicion_benjamin": "Manifestación irrepetible de una lejanía. Destruida por reproducción técnica.",
+      "contexto_historico": "1936. Crítica al fascismo estético. Promesa revolucionaria de arte sin aura.",
+      "problematizacion_contemporanea": "¿NFT resucita aura mediante escasez digital? ¿Algoritmos generan nuevo tipo de aura viral?",
+      "uso_en_capas": {
+        "CAPA2": "Genealogía Benjamin → críticos posteriores",
+        "CAPA3": "Aura en era de IA, deepfakes, blockchain",
+        "CAPA4": "Grabado coleccionable (300dpi) como aura analógica en lo digital",
+        "CAPA5": "TSR como mercancía con/sin aura"
+      }
+    },
+    "autor": {
+      "definicion_barthes": "Ficción moderna. El texto es tejido de citas sin garante último.",
+      "definicion_foucault": "Función-autor. Dispositivo de atribución que regula circulación de discursos peligrosos.",
+      "definicion_eco": "Lector modelo inscrito en el texto. Cooperación interpretativa.",
+      "tension_dialectica": "Muerte del autor (Barthes) vs Función-autor (Foucault). No son contradictorias: Barthes elimina origen único, Foucault muestra cómo la función persiste.",
+      "uso_en_capas": {
+        "CAPA2": "Genealogía Barthes-Foucault-Blanchot",
+        "CAPA3": "Autoría algorítmica. ¿Quién es autor cuando IA co-escribe?",
+        "CAPA4": "Copyright como performance de función-autor",
+        "CAPA5": "Sarayu Aguilar como nodo de atribución retroactiva"
+      }
+    },
+    "archivo": {
+      "definicion_foucault": "Sistema general de formación y transformación de enunciados. No biblioteca, sino reglas que determinan qué puede decirse.",
+      "definicion_derrida": "Mal de archivo. Imposibilidad de totalización. El archivo porta su propia destrucción.",
+      "uso_en_capas": {
+        "CAPA2": "Genealogía arqueología foucaultiana",
+        "CAPA3": "Archivo digital. Servidores corporativos. Volatilidad de datos.",
+        "CAPA4": "TSR como archivo de 20 perspectivas fragmentarias",
+        "CAPA5": "El archivo se archiva a sí mismo"
+      }
+    },
+    "episteme": {
+      "definicion_foucault": "Grilla histórica que organiza lo decible, lo pensable, lo visible en una época dada. No cosmovisión, sino condiciones de posibilidad del saber.",
+      "ejemplos_historicos": {
+        "renacentista": "Conocimiento por semejanza (mundo como libro de firmas divinas)",
+        "clasica": "Conocimiento por representación (clasificar, ordenar, nombrar)",
+        "moderna": "Conocimiento por historicidad (buscar orígenes, develar profundidad)"
+      },
+      "uso_en_capas": {
+        "CAPA2": "Genealogía de epistemes foucaultianas",
+        "CAPA3": "Episteme algorítmica. ¿Qué cuenta como conocimiento válido en era de IA?",
+        "CAPA4": "TSR como dispositivo que expone epistemes",
+        "CAPA5": "¿Desde qué episteme se enuncia el TSR?"
+      }
+    },
+    "lectura_de_segundo_orden": {
+      "definicion_trco": "Leer cómo se leen los textos. Observar marcos interpretativos que hacen posible que algo signifique. No interpretar mejor, sino ver las condiciones de interpretación.",
+      "diferencia_con_lectura_primera": "Primera orden = ¿qué dice el texto? Segunda orden = ¿cómo el texto organiza lo que puede decirse?",
+      "metodo": "Hacer visible la estructura invisible. Exponer dispositivos de sentido.",
+      "uso_en_capas": {
+        "CAPA2": "Genealogía del concepto (Bateson, Gadamer, Eco)",
+        "CAPA3": "Lectura algorítmica como segundo orden involuntario",
+        "CAPA4": "Cíclope como método de lectura monocular situada",
+        "CAPA5": "TSR aplicándose a sí mismo (meta-lectura)",
+        "CAPA6": "Ejercicios pedagógicos que entrenan segundo orden",
+        "CAPA7": "Casos donde falló/funcionó lectura de segundo orden"
+      }
+    },
+    "glitch": {
+      "definicion": "Error que se vuelve método. Falla deliberada que expone estructura oculta. No bug a corregir, sino feature crítico.",
+      "ejemplos": {
+        "copyright_tsr101": "Declaro copyright sabiendo que autoría es ficción. El glitch expone la contradicción sin resolverla.",
+        "fragmento_blanchot": "Escritura que falla deliberadamente en completarse",
+        "cíclope": "Visión monocular como glitch epistémico productivo"
+      },
+      "uso_en_capas": {
+        "CAPA2": "Genealogía del error productivo (Nietzsche, Derrida)",
+        "CAPA3": "Glitch digital. Deepfakes. Bugs como arte.",
+        "CAPA4": "Rostro fragmentado como glitch visual",
+        "CAPA5": "Contradicciones del TSR como glitches deliberados"
+      }
+    }
+  },
+  "terminos_reflejos_hibridos": {
+    "reflejos_hibridos": {
+      "definicion": "Universo narrativo que explora identidades fragmentadas, archivos como estructuras generativas, y tensión entre materialidad textual y desmaterialización digital.",
+      "ejes_conceptuales": [
+        "Identidades fragmentadas (no-totalización del sujeto)",
+        "Archivos como estructuras generativas (no como depósitos pasivos)",
+        "Materialidad/desmaterialización (tensión sin resolución)"
+      ],
+      "uso_en_capas": {
+        "CAPA2": "Mencionar cuando genealogía conecta con RH",
+        "CAPA3": "Problematización debe vincular concepto con RH",
+        "CAPA4": "Resonancias explícitas con obra visual/narrativa",
+        "CAPA5": "Meta-análisis de cómo TSR participa en RH"
+      }
+    },
+    "trace": {
+      "definicion": "Dispositivo pedagógico/curatorial dentro de RH. Sistema de lectura que rastrea (Trace), revela (Reveal), analiza (Analyze), construye (Construct), expande (Expand).",
+      "nota": "No desarrollar extensamente en TSR a menos que sea directamente relevante. TSR es marco teórico, TRACE es aplicación práctica.",
+      "uso_en_capas": {
+        "CAPA6": "Talleres pueden usar metodología TRACE",
+        "CAPA7": "Casos de estudio pueden mencionar TRACE como herramienta"
+      }
+    }
+  },
+  "instrucciones_validacion": {
+    "regla_1": "Si una capa usa un término del glosario de manera divergente a su definición canónica, debe DECLARARLO EXPLÍCITAMENTE como 'tensión dialéctica' o 'uso divergente'.",
+    "regla_2": "Términos con múltiples definiciones (ej: fragmento, autor) deben ESPECIFICAR cuál definición activan en cada uso.",
+    "regla_3": "Si dos capas definen el mismo término de manera incompatible SIN declarar tensión dialéctica, el script de validación debe ALERTAR.",
+    "regla_4": "Nuevos términos pueden agregarse al glosario, pero requieren metadata completa: definición, genealogía breve, uso en capas."
+  }
+}

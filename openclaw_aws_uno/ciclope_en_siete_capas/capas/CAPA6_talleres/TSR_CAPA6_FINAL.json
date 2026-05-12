@@ -1,0 +1,434 @@
+{
+  "102": {
+    "tsr_id": 102,
+    "titulo": "Foucault: la verdad como archivo de enunciados",
+    "guion_taller": "# TSR102: GUIÓN DE TALLER\n\n## Título del taller\nSi la verdad es un archivo, ¿quién decide qué se descarta?\n\n## Datos generales\n- Duración: 90 minutos\n- Nivel: Intermedio-Avanzado\n- Contextos aplicables: Docencia / Mediación de lectura / Gestión cultural\n- Requisitos: Lectura previa del TSR102 (mínimo sección de genealogía)\n\n## Pregunta detonadora central\n¿Qué diferencia hay entre guardar un enunciado y archivarlo como verdadero?\n\n---\n\n## Módulo 1: Docencia (Educación Media y Superior)\n\n**Problema que aborda:** Los estudiantes reproducen autores como orígenes en lugar de leerlos como funciones dentro de regímenes discursivos.\n\n**Actividad detonadora (25 min):**\n\n1. Distribuir tres fragmentos de un mismo autor (Foucault, Barthes o Eco) publicados en años distintos. No identificar la fuente ni el año.\n\n2. Pedir que numeren los fragmentos del 1 al 3 según \"orden de aparición\". No explicar el propósito.\n\n3. Reve1ar que el fragmento marcado como \"primero\" es en realidad el último cronológicamente. Pedir que reescriban brevemente: ¿cambió algo saber esto?\n\n4. Introducir la pregunta operativa: Si el sentido de un texto cambia según su archivo, ¿dónde reside la verdad del autor?\n\n5. Los estudiantes redactan una oración-mínimo (máx. 30 palabras) respondiendo: ¿El autor precede a su texto o el archivo lo produce?\n\n**Evaluación de segundo orden:** Observar si los estudiantes invocan intención autoral como explicación única. Quienes recurren a \"el autor quería decir\" indican lectura de primer orden. Quienes preguntan por las condiciones de existencia del enunciado demuestranTRCO.\n\n---\n\n## Módulo 2: Mediación de Lectura (Bibliotecas, Clubes, Centros Culturales)\n\n**Problema que aborda:** Las prácticas de lectura en grupo tienden a biografiar al autor (quién era) en lugar de examinar el régimen de verdad que habilita sus enunciados.\n\n**Actividad detonadora (30 min):**\n\n1. Seleccionar un fragmento de un autor canónico (máx. 300 palabras). Imprimir en dos formatos: en formato editorial convencional y en formato que elimine nombre, fecha y contexto (solo texto desnudo).\n\n2. Primera lectura en voz alta (formato convencional): registrar reacciones espontáneas. ¿El grupo menciona al autor? ¿Citan vida u obra?\n\n3. Segunda lectura en voz alta (formato anónimo): esperar 3 minutos de silencio antes de permitir comentarios. Preguntar: ¿Hubo diferencia en cómo escucharon?\n\n4. Explicar que ambos fragmentos eran del mismo autor. Registrar: ¿el archivo (nombre, fecha, contexto) funcionó como verdad?\n\n5. Cierre con pregunta: ¿Cuántos enunciados verdaderos excluimos cuando archivamos por autor y no por problema?\n\n**Conexión con circuito editorial:** El TSR102 interroganta las políticas de catalogación que organizan acervos por autoría, ignorando las condiciones de posibilidad de los enunciados. Esto cuestionanta decisiones curatoriales en bibliotecas y programas de lectura.\n\n---\n\n## Módulo 3: Gestión Cultural (Programación, Convocatorias, Selección)\n\n**Problema que aborda:** Las convocatorias culturales suelen evaluar \"voz propia\" como criterio de selección, reproduciendo la función-autor como valor positivo sin examinarla críticamente.\n\n**Actividad detonadora (30 min):**\n\n1. Presentar dos extractos de proyectos seleccionados en convocatorias reales. Uno con fuerte marca autoral (biografía, estilo reconocible, nombre propio como capital), otro conpositivo authorship (seudónimo, colectivo sin rostro, trabajo procesual sin producto final).\n\n2. Pedir que rankingear sin criterios...\n\n> [Nota: texto truncado a 500 palabras del original 663]",
+    "estadisticas": {
+      "palabras": 510,
+      "modelo_usado": "opencode",
+      "fecha_generacion": "2026-04-25T06:10:41.676823",
+      "validacion_extension": "flexible",
+      "postprocesamiento": {
+        "palabras_originales": 663,
+        "artefactos_filtrados": true,
+        "truncado": true,
+        "palabras_finales": 510
+      }
+    },
+    "metadata_entrada": {
+      "genealogia_disponible": true,
+      "problematizacion_disponible": true,
+      "metaanalisis_disponible": true,
+      "autor_principal": "Michel Foucault",
+      "concepto_central": "función-autor"
+    }
+  },
+  "103": {
+    "tsr_id": 103,
+    "titulo": "Blanchot: el fragmento sin promesa de totalidad",
+    "guion_taller": "# TSR103: GUIÓN DE TALLER\n\n## Título del taller\n**El fragmento que ser completado: entrenamiento para la lectura sin garantía**\n\n## Datos generales\n- Duración: 90 minutos\n- Nivel: Intermedio-Avanzado\n- Contextos aplicables: Docencia / Mediación de lectura / Gestión cultural\n- Requisitos: Lectura previa del TSR103 (mínimo sección de genealogía)\n\n## Pregunta detonadora central\n**¿Cómo se lee cuando no hay autor que responda por el texto ni promesa de coherence final?**\n\n---\n\n## Módulo 1: Docencia (Educación Media y Superior)\n\n**Problema que aborda:** La tendencia estudiantil a buscar síntesis y conclusiones como mecanismo de ansiedad frente a la incertidumbre textual.\n\n**Actividad detonadora (25 min):**\n\n1. Dividir el grupo en parejas. Asignar a cada pareja un fragmento de El espacio literario de Blanchot (extensión: 150-200 palabras). NO explicar el fragmento previamente.\n\n2. Primera lectura (5 min): Lectura individual silenciosa. Cada estudiante marca con lápiz las palabras o frases que generen resistencia, incomprensión o vacío conceptual.\n\n3. Segunda lectura (5 min): Leer en voz alta el fragmento asignado, rotando lector cada párrafo. El resto escucha sin tomar notas.\n\n4. Ejercicio de registro (10 min): Cada estudiante escribe en una hoja separada:\n   - Una frase del fragmento que eligió NO porque la entendió, sino porque le generó una pregunta sin formulación posible.\n   - Una frase que elegiría BORRAR del fragmento y por qué (sin juicio de calidad, solo preferencia).\n   - NO se permite escribir qué \"significa\" el fragmento.\n\n5. Puesta en común (5 min): Solo se leen las frases elegidas. El docente facilita sin sintetizar. Si alguien intenta ofrecer una \"interpretación\", se le pide que la transforme en pregunta.\n\n**Evaluación de segundo orden:** Observar cómo los estudiantes manejan la ambigüedad: ¿Pueden sostener la pregunta sin intentar resolverla? ¿Insisten en \"entender\" o pueden habitar el no-entendimiento? La evaluación registra la cualidad del registro escrito: ¿Es descriptivo (\"esto dice que...\") o es interrogativo (\"esto me exige...\")?\n\n---\n\n## Módulo 2: Mediación de Lectura (Bibliotecas, Clubes, Centros Culturales)\n\n**Problema que aborda:** El expectativa de que todo texto debe \"dar algo\" al final, y la dificultad de sostener prácticas de lectura sin rendimiento inmediato.\n\n**Actividad detonadora (30 min):**\n\n1. Installer el espacio con textos fragmentarios abertos en mesas: Extractos de Blanchot, Beckett, Celan,google Mallarmén. NO indicar cuál es \"el texto del taller\".\n\n2. Ronda de selección (5 min): Cada participante elige UN fragmento de cualquier texto de las mesas. No se explica la elección. Se registra por escrito únicamente: \"Elegí este fragmento porque...\" (máx. 3 líneas).\n\n3. Lectura en voztxtalta encadenada (10 min): Sin intervención del mediador. Los participantes leen sus fragmentos seleccionados consecutivamente. Silencio entre lecturas. No hay aplausos ni comentarios durante la ronda.\n\n4. Escritura de segundo orden (10 min): Después de la ronda, cada participante escribe:\n   - ¿Qué escuchaste que NO buscaba tu atención?\n   - ¿Qué fragmento escuchaste que elegirías para otra persona y por qué?\n   - Responder en presente, no en pasado.\n\n5. Circle de cierre (5 min): Solo respuestas a una pregunta: ¿El fragmento elegido sigue siendo el mismo después de...\n\n> [Nota: texto truncado a 500 palabras del original 851]",
+    "estadisticas": {
+      "palabras": 510,
+      "modelo_usado": "opencode",
+      "fecha_generacion": "2026-04-25T06:10:57.975696",
+      "validacion_extension": "flexible",
+      "postprocesamiento": {
+        "palabras_originales": 851,
+        "artefactos_filtrados": true,
+        "truncado": true,
+        "palabras_finales": 510
+      }
+    },
+    "metadata_entrada": {
+      "genealogia_disponible": true,
+      "problematizacion_disponible": true,
+      "metaanalisis_disponible": true,
+      "autor_principal": "Maurice Blanchot",
+      "concepto_central": "desaparición hablante del autor"
+    }
+  },
+  "104": {
+    "tsr_id": 104,
+    "titulo": "El fragmento romántico como infinito concentrado",
+    "guion_taller": "# TSR104: GUIÓN DE TALLER\n\n## Título del taller\n**Fragmento y resto: ¿dónde se corta el infinito?**\n\n## Datos generales\n\n- Duración: 90 minutos\n- Nivel: Intermedio-Avanzado\n- Contextos aplicables: Docencia / Mediación de lectura / Gestión cultural\n- Requisitos: Lectura previa del TSR104 (mínimo sección de genealogía)\n\n## Pregunta detonadora central\n\n**¿Puede un fragmentoContaining contener loIncontainable? Cuando el resto excede la forma, ¿qué queda del fragmento?**\n\n---\n\n## Módulo 1: Docencia (Educación Media y Superior)\n\n**Problema que aborda:** Los estudiantes leen fragmentos como incompletudes aresolver, no como totalidadeschlegelinianas.\n\n**Actividad detonadora (25 min):**\n\n\n\n---\n\n## Módulo 2: Mediación de Lectura (Bibliotecas, Clubes, Centros Culturales)\n\n**Problema que aborda:** Los clubes de lectura tienden a buscar\" closure\" (¿te gustó? ¿recommiendus?), evitando la tensión productivo del fragmento.\n\n**Actividad detonadora (30 min):**\n\n3.Escribir registro breve: ¿Cómo decides si un texto está\"terminado\"? criterios usado\n\n\n---\n\n## Módulo 3: Gestión Cultural (Programación, Convocatorias, Selección)\n\n**Problema que aborda:** Los proyectos seleccionarse por\"resultado medible\"no por su capacidad de sostener tensión productiva\n\n**Actividad detonadora (30 min):**\n\n\n\n\n**Criterios TRCO para formularios de selección:**\n\n- ¿El proyecto sostiene o resuelve latensión?\n- ¿El resultado previsto es unportal o un producto?\n- ¿Los indicadores miden proceso o solo impacto?\n\n---\n\n## Cierre generativo (10 min)\n\nTres preguntas abiertas para reflexión continua:\n\n1. ¿Cómo afecta la tensión Schlegel-Blanchot tu práctica? ¿lees para completar o para habitar lo irreconciliable?\n\n2. ¿En tu contexto (docencia/mediación/gestión) dónde se corta el infinito? ¿Quién decide dónde termina un proyecto?\n\n3. El fragmento como totalidad vs. el resto irreductible: ¿prefieres trabajar con portas o con residuos? Esta preferencia es un acto político, no un gusto personal.\n",
+    "estadisticas": {
+      "palabras": 267,
+      "modelo_usado": "opencode",
+      "fecha_generacion": "2026-04-25T06:11:12.728433",
+      "validacion_extension": "flexible",
+      "postprocesamiento": {
+        "palabras_originales": 389,
+        "artefactos_filtrados": true,
+        "truncado": false,
+        "palabras_finales": 267
+      }
+    },
+    "metadata_entrada": {
+      "genealogia_disponible": true,
+      "problematizacion_disponible": true,
+      "metaanalisis_disponible": true,
+      "autor_principal": "Friedrich Schlegel",
+      "concepto_central": "fragmento como totalidad"
+    }
+  },
+  "105": {
+    "tsr_id": 105,
+    "titulo": "Blanchot contra Schlegel: la brecha irresoluble",
+    "guion_taller": "# TSR105: GUIÓN DE TALLER\n\n## Título del taller\n**La brecha que no se cierra: fragmento como síntoma, no como promesa**\n\n## Datos generales\n- Duración: 90 minutos\n- Nivel: Intermedio-Avanzado\n- Contextos aplicables: Docencia / Mediación de lectura / Gestión cultural\n- Requisitos: Lectura previa del TSR105 (mínimo sección de genealogía)\n\n## Pregunta detonadora central\n**¿Puedes habitar un fragmento que no promete nada más alla de sí mismo — ni unidad, ni síntesis, ni cierre?**\n\n## Módulo 1: Docencia (Educación Media y Superior)\n\n**Problema que aborda:** El estudiante tiende a leer el fragmento como problema a resolver (completar, sintetizar, concluir), no como forma de pensamiento autónoma.\n\n**Actividad detonadora (25 min):**\n\n**Paso 1 — Lectura divergente (10 min):** Selecciona dos fragmentos de extensiones Radicalmente distintas del corpus del curso. Un fragmento Schlegel (corto, con tensión hacia síntesis) y un fragmento Blanchot (extendido, que rechaza toda completitud). Los estudiantes leen ambos en silencio y registran en una sola frase: ¿qué espera el fragmento del lector?\n\n**Paso 2 — Inversiones forzadas (10 min):** Por parejas, cada estudiante reescribe el fragmento de Schlegel como si fuera de Blanchot (sin promesa de unidad) y viceversa. No se trata de Parafrasear, sino de habitar la inversión: ¿qué se pierde en cada dirección?\n\n**Paso 3 — Registro de la brecha (5 min):** Cada estudiante escribe en una oración qué descubrieron sobre la esperanza implícita en Schlegel versus la insistencia sin esperanza en Blanchot. Se sellan los registros sin compartirlos.\n\n**Evaluación de segundo orden:** Observar si el estudiante logra identificar que Schlegel invita al lector a completar mientras Blanchot lo deja suspendo sin invitación. La evaluación NO mide acuerdo con una interpretación, sino la capacidad de sostener la tensión sin resolverla.\n\n## Módulo 2: Mediación de Lectura (Bibliotecas, Clubes, Centros Culturales)\n\n**Problema que aborda:** Los clubes de lectura tienden a buscar consenso (¿qué quiso decir el autor?) como cierre operativo, evitando la productividad de la irresolución.\n\n**Actividad detonadora (30 min):**\n\n**Paso 1 — Lectura en voz fragmentaria (8 min):** El mediador selecciona tres pasajes del TSR105 que representen la tensión Schlegel-Blanchot: uno que presente el fragmento como promesa, uno que lo presente como resto, uno que los confronte. Cada pasaje se lee en voz alta por un voluntario diferente, sin comentario previo.\n\n**Paso 2 — Escritura ciega (10 min):** Cada participante escribe en un papelito cuál de los tres fragmentos le resultó más incómodo y por qué — sin saber cuál es cuál. Los papelitos se depositan en un receptacle sin abrirlos aún.\n\n**Paso 3 — Ejercicio de reversión (7 min):** El mediador revela qué representa cada pasaje. Se pide a los participantes que reescriban su incomodidad desde la tensión: ¿es la incomodidad de no poder completar o de no poder invitar a completar?\n\n**Paso 4 — Archivo de la brecha (5 min):** Los papelitos se sellan y se archivan sin abrirlos. No hay lectura colectiva de conclusiones. El mediator informa que pueden solicitar su papeleto en cualquier sesión futura.\n\n**Conexión con circuito editorial:** Esta actividad cuestiona...\n\n> [Nota: texto truncado a 500 palabras del original 827]",
+    "estadisticas": {
+      "palabras": 510,
+      "modelo_usado": "opencode",
+      "fecha_generacion": "2026-04-25T06:11:26.812475",
+      "validacion_extension": "flexible",
+      "postprocesamiento": {
+        "palabras_originales": 827,
+        "artefactos_filtrados": false,
+        "truncado": true,
+        "palabras_finales": 510
+      }
+    },
+    "metadata_entrada": {
+      "genealogia_disponible": true,
+      "problematizacion_disponible": true,
+      "metaanalisis_disponible": true,
+      "autor_principal": "Maurice Blanchot",
+      "concepto_central": "fragmento sin síntesis"
+    }
+  },
+  "106": {
+    "tsr_id": 106,
+    "titulo": "Colores como botín teológico",
+    "guion_taller": "# TSR106: GUIÓN DE TALLER\n\n## Título del taller\n\n**Azul que sangra, píxel que acecha: cuando el color deja de ser y se convierte en propiedad**\n\n## Datos generales\n\n- Duración: 90 minutos\n- Nivel: Intermedio-Avanzado\n- Contextos aplicables: Docencia / Mediación de lectura / Gestión cultural\n- Requisitos: Lectura previa del TSR106 (mínimo sección de genealogía)\n\n## Pregunta detonadora central\n\n¿Por qué la escasez de un pigmento en el siglo XIII produce la misma estructura de poder que la escasez artificial de un token digital en el siglo XXI?\n\n---\n\n## Módulo 1: Docencia (Educación Media y Superior)\n\n**Problema que aborda:** Los estudiantes consumen imágenes sin interrogarlas como bienes económica y teológicamente cargados.\n\n**Actividad detonadora (25 min):**\n\n1. Distribuir tres reproducciones: una miniatura medieval con ultramarino, una pintura del Renacimiento con laca de cochinilla, un pantallazo de NFT digital. Sin identificar el pigmento ni el medio.\n\n2. Pedir que ordenen cronológicamente y justifiquen con OBSERVACIÓN, no con conocimiento previo. Registrar por escrito las justificaciones.\n\n3. Revelar la genealogía del pigmento: qué extracción, qué costo humano, qué significado teológico. Comparar con el dato del token o píxel equivalente.\n\n4. Reescribir la justificación inicial incorporando la nueva información. Observar qué cambia, qué se sostiene.\n\n**Evaluación de segundo orden:** ¿El estudiante distingue entre dato (lo que sabe) y método (cómo llegó a saberlo)? ¿Logra sostener la tensión entre información nueva y observación propia sin resolverla en certeza?\n\n---\n\n## Módulo 2: Mediación de Lectura (Bibliotecas, Clubes, Centros Culturales)\n\n**Problema que aborda:** La lectura fragmentaria se practiva como técnica de extracción, no como habitáculo de la brecha.\n\n**Actividad detonadora (30 min):**\n\n1. Preparar tarjetas con fragmentos de tres épocas: (a) texto medieval sobre el precio del azul, (b) pasaje de Finlay sobre el comercio de cochinilla, (c) fragmento de texto contemporáneo sobre NFTs y color. Cada tarjeta sin fecha ni fuente visible.\n\n2. Lectura en voz alta circular. Cada participante lee una tarjeta y calla. No se permite comentario hasta que todas se hayan leído.\n\n3. Primer círculo de comentarios: solo preguntas. Ninguna afirmación. Escribir las preguntas en papelógrafo.\n\n4. Segundo círculo: conexiones. Unir las preguntas que dialogan. Descubrir qué tensión persiste entre los fragmentos de todas las épocas.\n\n**Conexión con circuito editorial:** El TSR106 problematiza la política de incluir o excluir notas al pie: el color como propiedad se replica cuando el paratexto se convierte en autorización, no como diálogo.\n\n---\n\n## Módulo 3: Gestión Cultural (Programación, Convocatorias, Selección)\n\n**Problema que aborda:** Los criterios de selección de proyectos culturales reproducen la economía del color sagrado sin reconocerlo.\n\n**Actividad detonadora (30 min):**\n\n1. Presentar dos dossiers de proyecto cultural hypothetical: uno propone una exposición de pigmentos históricos, otro un taller de creación digital sobre color. Sin revelar cuál es \"el correcto\".\n\n2. En grupos de tres, cada grupo recibe 15 minutos para evaluar cuál merece financiamiento, usando los CRITERIOS que consideren pertinentes. Deben listing sus criterios por escrito.\n\n3. Introducir las preguntas TRCO para formularios de selección:\n\n- ¿El proyecto pregunta por la...\n\n> [Nota: texto truncado a 500 palabras del original 641]",
+    "estadisticas": {
+      "palabras": 510,
+      "modelo_usado": "opencode",
+      "fecha_generacion": "2026-04-25T06:38:56.410554",
+      "validacion_extension": "flexible",
+      "postprocesamiento": {
+        "palabras_originales": 641,
+        "artefactos_filtrados": true,
+        "truncado": true,
+        "palabras_finales": 510
+      }
+    },
+    "metadata_entrada": {
+      "genealogia_disponible": true,
+      "problematizacion_disponible": true,
+      "metaanalisis_disponible": true,
+      "autor_principal": "Victoria Finlay",
+      "concepto_central": "economía política del color"
+    }
+  },
+  "107": {
+    "tsr_id": 107,
+    "titulo": "El azul sintético como democratización o pérdida de aura",
+    "guion_taller": "# TSR107: GUIÓN DE TALLER\n\n## Título del taller\n\n**Azul de masa: ¿cuándo el acceso mata lo sagrado?**\n\n## Datos generales\n\n- Duración: 90 minutos\n- Nivel: Intermedio-Avanzado\n- Contextos aplicables: Docencia / Mediación de lectura / Gestión cultural\n- Requisitos: Lectura previa del TSR107 (mínimo sección de genealogía)\n\n## Pregunta detonadora central\n\n**Si el azul sintético hizo accesible para todos lo que antes era privilegio de, ¿por qué esa accesibilidad simultánea destruye algo irremplazable — y ese algo es necesario name?**\n\n---\n\n## Módulo 1: Docencia (Educación Media y Superior)\n\n**Problema que aborda:** El estudiante no distingue entre reproduce y crear, confunde acceso con apropiación.\n\n**Actividad detonadora (25 min):**\n\n1. Repartir tres muestras de azul: pigmento sintético industrial (#0055A4), acuarela sintética de estudiante, pigmento Natural Ultramar (lapislázuli auténtico, o imagen de alta resolución si no se dispone). Los estudiantes no deben saber qué muestra es cuál hasta el paso 4.\n\n2. Cada estudiante recibe una tarjeta con tresdescripciones igualmente vlids:\n   - Descripción A: \"Azul extracted de piedra semipreciosa cultivada en Afghanistan, proceso manual de 6 meses, costo de material es 340 euros los 5 gramos.\"\n   - Descripción B: \"Azul producido por BASF en 1890, síntesis industrial a partir de alquitrán de hulla, costo de material es 12 euros los 100 gramos.\"\n   - Descripción C: \"Azul generado por modelo difusor en 2024, dato RGB#2E5A8C, costo de reproducción es 0.\"\n\n3. Durante 10 minutos, cada estudiante escribe sin mirar las muestras: ¿Cuál descripción corresponde a cuál? ¿Por qué adjudicó ese valor?\n\n4. Reveir la correspondencia real. Los estudiantes confrontan su propias proyecciones de valor sobre datos objetivos. Registrar en una lista: ¿qué criterios usaron? ¿Eran conscientes de esos criterios?\n\n5. Cierre del módulo: ¿Pueden distinguir su reacción emocional del juicio crítico? Esa confusión es el problema central que Benjamin diagnose en 1935.\n\n**Evaluación de segundo orden:** Observar si los estudiantes reconocen que su «preferencia» está construida socialmente, no es «natural». El criterio no es si acertaron la muestra, sino si articulan cmo socially constructed sus criterios de valoración.\n\n---\n\n## Módulo 2: Mediación de Lectura (Bibliotecas, Clubes, Centros Culturales)\n\n**Problema que aborda:** El mediador confunde acompañar la lectura con explicar el texto, suplanta el trabajo del lector en lugar de herramientas para que trabaje.\n\n**Actividad detonadora (30 min):**\n\n1. Previo al encuentro: seleccionar tres fragmentos cortos del TSR107 que operen como nodules de tensión irresoluble:\n   - Fragmento 1 (Genealogía): La invención de Heinrich Caro democratiza el azul pero mata algo.\n   - Fragmento 2 (Problematización contemporánea): Los NFTs tokenizan el azul sintético; la democratización choca con la pérdida de aura.\n   - Fragmento 3 (Glitch final): La pregunta sin respuesta sobre si queremos democracias cromáticas.\n\n2. Lectura en voz alta del Fragmento 1 por un participante voluntario. Los dems escuchan con la instrucción: «Sin interrumpir, registra el momento donde wanted detenerte porqu tu pensaste algo que contradice o expande lo ledo.»\n\n3. Cada participante escribe durante 3 minutos la contradiction o expansión que registró. No comparte oralmente. El silencio es parte del mtodo...\n\n> [Nota: texto truncado a 500 palabras del original 956]",
+    "estadisticas": {
+      "palabras": 510,
+      "modelo_usado": "opencode",
+      "fecha_generacion": "2026-04-25T06:12:16.148395",
+      "validacion_extension": "flexible",
+      "postprocesamiento": {
+        "palabras_originales": 1018,
+        "artefactos_filtrados": true,
+        "truncado": true,
+        "palabras_finales": 510
+      }
+    },
+    "metadata_entrada": {
+      "genealogia_disponible": true,
+      "problematizacion_disponible": true,
+      "metaanalisis_disponible": true,
+      "autor_principal": "Walter Benjamin",
+      "concepto_central": "aura y reproducción técnica"
+    }
+  },
+  "108": {
+    "tsr_id": 108,
+    "titulo": "Eco: no hay lectura sin cultura",
+    "guion_taller": "# TSR108: GUIÓN DE TALLER\n\n## Título del taller\n\n**Cuando el código falla: lectura sin cultura como ficción posible**\n\n## Datos generales\n\n- Duración: 90 minutos\n- Nivel: Intermedio-Avanzado\n- Contextos aplicables: Docencia / Mediación de lectura / Gestión cultural\n- Requisitos: Lectura previa del TSR108 (mínimo sección de genealogía)\n\n## Pregunta detonadora central\n\n¿Es posible leer sin código compartido, o la ilusión de lectura neutral es apenas eso — una ficción que sostiene el mercado editorial?\n\n---\n\n## Módulo 1: Docencia (Educación Media y Superior)\n\n**Problema que aborda:** Los estudiantes leen textos como si el significado residiera en el signo, no en la convención cultural que lo sostiene.\n\n**Actividad detonadora (25 min):**\n\nEl docente selecciona tres fragmentos del mismotexto traducidos a versionesdistintas (distintas editoriales o épocas). Sin revelar que son el mismo texto, distribuye los fragmentos entre grupos de estudiantes. Cada grupo debe: (1) identificar el mensaje central en 50 palabras; (2) listar tres palabras clave que consideren inevitables para entenderlo.\n\nPasos de desarrollo:\n\n1. Grupos explican sus interpretaciones sin conocer el origen común.\n2. Se revela que los tres fragmentos provienen del mismo texto original.\n3. Segunda ronda: cada grupo revisa su interpretación inicial y marca qué elementos cambiaron tras saber el origen.\n4. Registro escrito: ¿qué cambios se producen? ¿Qué permanece invariable?\n\n**Evaluación de segundo orden:** Observar dónde se produzieron los cambios interpretativos —no el contenido del cambio, sino la evidencia de quela interpretación fue atravesada por el código compartido que los estudiantes aún no habían reconocido como tal.\n\n---\n\n## Módulo 2: Mediación de Lectura (Bibliotecas, Clubes, Centros Culturales)\n\n**Problema que aborda:** La mediación de lectura asume que el lector llega sin código, cuando en realidad toda mediación selecciona qué culturas exclude del acceso.\n\n**Actividad detonadora (30 min):**\n\nEl mediador prepara un texto fragmentario (puede ser un capítulo incompleto, un artículo con lagunas, un documento con vacíos deliberados). Los participantes leen en voz alta por turnos, deteniéndose en los puntos donde el sentido se interrumpe. En cada, el grupo registra por escrito: (1) qué palabra o concepto se necesitaba para continuar; (2) si esa palabra existe en el código compartido de todos los presentes.\n\nPasos de desarrollo:\n\n1. Primeira ronda: lectura colectiva con pausas programadas en los puntos de fractura.\n2. Inventario compartido: cada participante enumera qué códigos le faltaron para completar la lectura.\n3. Segunda lectura: los participantes negocian qué códigos son verdaderamente compartidos y cuáles son individuales (pertenecen a subculturas específicas).\n4. Cierre: cada participante elige un fragmento que no pudo completar y lo reporta como ejemplo de lectura sin cultura.\n\n**Conexión con circuito editorial:** El TSR108 cuestiona las políticas de selección de bibliotecas que asimen neutralidad del catálogo — cuando toda selección es ya una apuesta por determinados códigos culturales, no por otros.\n\n---\n\n## Módulo 3: Gestión Cultural (Programación, Convocatorias, Selección)\n\n**Problema que aborda:** Las convocatorias culturales seleccionan proyectos bajo el criterio implícito de que el evaluador y el proponente comparten código interpretativo.\n\n**Actividad detonadora (30 min):**\n\nEl gestor distribuye tres convocatorias...\n\n> [Nota: texto truncado a 500 palabras del original 745]",
+    "estadisticas": {
+      "palabras": 510,
+      "modelo_usado": "opencode",
+      "fecha_generacion": "2026-04-25T06:12:33.633696",
+      "validacion_extension": "flexible",
+      "postprocesamiento": {
+        "palabras_originales": 745,
+        "artefactos_filtrados": true,
+        "truncado": true,
+        "palabras_finales": 510
+      }
+    },
+    "metadata_entrada": {
+      "genealogia_disponible": true,
+      "problematizacion_disponible": true,
+      "metaanalisis_disponible": true,
+      "autor_principal": "Umberto Eco",
+      "concepto_central": "signo como convención cultural"
+    }
+  },
+  "109": {
+    "tsr_id": 109,
+    "titulo": "Klein: el vacío azul como apropiación inmaterial",
+    "guion_taller": "# TSR109: GUIÓN DE TALLER\n\n## Título del taller\n**El vacío azul como apropiación inmaterial: habitar la zona entre el fragmento y el todo**\n\n## Datos generales\n- Duración: 90 minutos\n- Nivel: Intermedio-Avanzado\n- Contextos aplicables: Docencia / Mediación de lectura / Gestión cultural\n- Requisitos: Lectura previa del TSR109 (mínimo sección de genealogía)\n\n## Pregunta detonadora central\n**¿Puede un color poseer lo que no puede tocar? Y si no puede, ¿qué tipo de vacío produce esa imposibilidad?**\n\n---\n\n## Módulo 1: Docencia (Educación Media y Superior)\n\n**Problema que aborda:** Los estudiantes reducen el monocromo a decisión estética, sin reconocer la apropiación inmaterial del infinito como operación conceptual.\n\n**Actividad detonadora (25 min):**\n\n1. Reunir a los estudiantes en grupos de 3. Asignar a cada grupo uno de estos tres textos breves: a) fragmento del discurso de Klein en la Sorbona (1957), b) descripción de Le Vide (1958) de Albert Camus, c) una crítica de Iris Clert a la exposición.\n\n2. Cada grupo transcribe en una hoja sola la frase que consideren más perturbadora del texto asignado. Bajo la frase, escriben dos líneas: qué dice el texto Y quécalla el texto.\n\n3. Los grupos rotan las hojas. Cada grupo recibe otra hoja y debe escribir en-margen un comentario que conecte la frase recibida con la idea de \"apropiación inmaterial\".\n\n\n\n**Evaluación de segundo orden:** Observar si los estudiantes distinguen entre la materialidad del color y la operación conceptual de apropiación. No evaluar respuestas correctas, sino la calidad de la ambigüedad que pueden sostener.\n\n---\n\n## Módulo 2: Mediación de Lectura (Bibliotecas, Clubes, Centros Culturales)\n\n**Problema que aborda:** Los lectores tienden a elfragmento como unidad discrete, sin reconocer que el fragmento es zona de tensión irresuelta.\n\n**Actividad detonadora (30 min):**\n\n\n2. Cada participante lee ambos fragmentos en voz alta, en parejas, alternando oraciones. La instrucción es clara: no discutan, solo lean.\n\n3. Después de la lectura, cada pareja responde por escrito a una sola pregunta: ¿Existe différences entre cómo se relacionan estos fragmentos con la idea de \"todo\"? No hay respuesta correcta.\n\n4. Las parejas intercambian sus respuestas escritas. Deben escribir un commentaire marginal que no concordnicni discrepe, sino que pregunte algo que la respuesta no aborda.\n\n5. Grupo completo: las preguntas marginales se leen en voz alta sin atribución. No se responden. Se registran en un papelógrafo que permanecerá visible durante la sesión.\n\n**Conexión con circuito editorial:** Invitar a los participantes a cuestionar cómo las políticas editoriales (selección, contratación, diseño) imponen una lógica del \"todo\" que el fragmento resiste.\n\n---\n\n## Módulo 3: Gestión Cultural (Programación, Convocatorias, Selección)\n\n**Problema que aborda:** Los gestores culturales evalúan proyectos bajo criterios de completitud, sin reconocer que la incompletud puede ser criterio de calidad.\n\n**Actividad detonadora (30 min):**\n\n1. Presentar a los participantes tres proyectos culturales ficticios en una sola oración cada uno: a) \"Exposición retrospectiva de obra reciente\", b) \"Serie de performances basadas en un texto no completado\", c) \"Archivo de prosesos creativos sin producto final\".\n\n2. Cada participante rank proyectos usando tres criterios:...\n\n> [Nota: texto truncado a 500 palabras del original 729]",
+    "estadisticas": {
+      "palabras": 510,
+      "modelo_usado": "opencode",
+      "fecha_generacion": "2026-04-25T06:39:56.572195",
+      "validacion_extension": "flexible",
+      "postprocesamiento": {
+        "palabras_originales": 789,
+        "artefactos_filtrados": true,
+        "truncado": true,
+        "palabras_finales": 510
+      }
+    },
+    "metadata_entrada": {
+      "genealogia_disponible": true,
+      "problematizacion_disponible": true,
+      "metaanalisis_disponible": true,
+      "autor_principal": "Yves Klein",
+      "concepto_central": "inmaterialidad artística"
+    }
+  },
+  "110": {
+    "tsr_id": 110,
+    "titulo": "El color como ventana mística",
+    "guion_taller": "# TSR110: GUIÓN DE TALLER\n\n## Título del taller\n**\"¿Ventana o brecha? El color como fragmento irredimible\"**\n\n## Datos generales\n\n- Duración: 90 minutos\n- Nivel: Intermedio-Avanzado\n- Contextos aplicables: Docencia / Mediación de lectura / Gestión cultural\n- Requisitos: Lectura previa del TSR110 (mínimo sección de genealogía)\n\n## Pregunta detonadora central\n\n**¿Puede un color ser al mismo tiempo una puerta abierta y un muro en blanco?**\n\n---\n\n## Módulo 1: Docencia (Educación Media y Superior)\n\n**Problema que aborda:** La tendencia a resolver las tensiones conceptuales en lugar de habitarlas.\n\n**Actividad detonadora (25 min):**\n\n1. Distribuir reproducciones de *Anthropométries* de Yves Klein (seleccionar 3 obras de la serie, formato A4 mínimo).\n2. Pedir que cada estudiante observe en silencio durante 3 minutos, registrando en una frase el momento en que el color azul deja de ser \"color\" y se convierte en otra cosa.\n3. En parejas, cada estudiante comparte su registro sin comentario del otro. El compañero debe identificarla palabra que marca el umbral.\n4. Reunión grupal: ¿Quién pudo resolver el paso? ¿Quién detectó que el paso no existe?\n5. Introducir el concepto TRCO: la disolución sujeto-objeto en Klein NO es un viaje, es un naufragio sin barco.\n\n**Evaluación de segundo orden:** ¿Los estudiantes intentan construir puentes entre sus observaciones o defenderse de la brecha con generalizaciones?\n\n---\n\n## Módulo 2: Mediación de Lectura (Bibliotecas, Clubes, Centros Culturales)\n\n**Problema que aborda:** La mediación como cierre interpretativo versus la mediación como apertura productiva.\n\n**Actividad detonadora (30 min):**\n\n1. Seleccionar fragmentos breves del glosario Cíclope (definiciones de \"fragmento\", \"aura\", \"glitch\").\n2. Lectura en voz alta colectiva: un voluntario lee la definición de Schlegel, otro lee la de Blanchot, alternadamente.\n3. Cada participante escribe durante 5 minutos qué definición aplicaría a un azul Klein y por qué, sin poder usar la palabra \"porque\".\n4. Intercambio escritos: lectura cruzada sin modificación posible.\n5. El mediador facilita preguntas generativas (no respuestas): ¿Qué se pierde cuando elegimosSchlegel? ¿Qué se gana cuando elegimos Blanchot?\n\n**Conexión con circuito editorial:** El TSR110 como objeto cuestiona la lógica del \"contenido completo\" — ¿cómo programar lecturas que no prometen cierre?\n\n---\n\n## Módulo 3: Gestión Cultural (Programación, Convocatorias, Selección)\n\n**Problema que aborda:** La evaluación de proyectos como cuantificación versus como lectura profunda.\n\n**Actividad detonadora (30 min):**\n\n1. Presentar dos proyectos culturales ficticios: uno que promete \"experiencia transformadora\" y otro que promete \"encuentro con lo irrepresentable\".\n2. En grupos de 3, aplicar TRCO: excluir el proyecto que use lenguaje de cierre.\n3. Registrar criterios utilizados: ¿Qué palabras delatan resolución prematura? ¿Qué proyectos sostienen la tensión?\n4. Diseñar una pregunta para proxim convcatorias que no permita respuestas definitivas (formato pregunta abierta + negación obligfeat).\n\n**Criterios TRCO para convocatorias:**\n\n- ¿El proyecto pregunta algo que NO puede responderse en el tiempo de la actividad?\n- ¿La propuesta reconocesus propios límites sin presentarse como incompleta?\n- ¿El equipo puede habitar la incertidumbre sin buscar consenso prematuro?\n\n---\n\n## Cierre generativo (10 min)\n\nTres preguntas abiertas para reflexión continua:\n\n1. **¿Quécolor elegirías para una pregunta sin respuesta y por qué callarías la respuesta?**\n2. **En tu práctica diaria, ¿dónde detectas el impulso de cerrar lo que debería abrirse?**\n3. **¿Puede el azul de Klein ser una ventana O una brecha, o debe ser ambas sin resolución?**\n\n---\n\n*TRCO | Sistema de Lectura de Segundo Orden | TSR110 | Capa 6: Guión de Taller*\n",
+    "estadisticas": {
+      "palabras": 557,
+      "modelo_usado": "opencode",
+      "fecha_generacion": "2026-04-25T06:13:31.631240",
+      "validacion_extension": "flexible",
+      "postprocesamiento": {
+        "palabras_originales": 557,
+        "artefactos_filtrados": true,
+        "truncado": false,
+        "palabras_finales": 557
+      }
+    },
+    "metadata_entrada": {
+      "genealogia_disponible": true,
+      "problematizacion_disponible": true,
+      "metaanalisis_disponible": true,
+      "autor_principal": "Yves Klein",
+      "concepto_central": "experiencia mística del color"
+    }
+  },
+  "112": {
+    "tsr_id": 112,
+    "titulo": "Tablilla vs. papiro: la tecnología como episteme",
+    "guion_taller": "# TSR112: GUIÓN DE TALLER\n\n## Título del taller\n\n**\"Lo que la arcilla permitió pensar: soportar epistemes desde Mesopotamia hasta el pixel\"**\n\n## Datos generales\n\n- **Duración:** 90 minutos\n- **Nivel:** Intermedio-Avanzado\n- **Contextos aplicables:** Docencia / Mediación de lectura / Gestión cultural\n- **Requisitos:** Lectura previa del TSR112 (mínimo sección de genealogía y problematización)\n\n## Pregunta detonadora central\n\n**¿Puede una tecnología de inscripción —arcilla, papiro, silicio— configurar lo que es cognoscible en una época sin que los sujetos lo adviertan?**\n\n---\n\n## Módulo 1: Docencia (Educación Media y Superior)\n\n**Problema que aborda:** La enseñanza de historia o teoría literaria trata los soportes como contenedores neutrales, no como estructuras que condicionan el pensamiento.\n\n**Actividad detonadora (25 min):**\n\n1. Dividir al grupo en dos. A un lado se entregan fragmentos impresos en papel normal (formato A4, letra 12). Al otro, fragmentos idénticos escritos a mano en tarjetas de cartulina (10x15 cm). **(2 min)**\n\n2. Cada subgrupo debe reconstruir una secuencia narrativa a partir de tres fragmentos desordenados. No pueden hablar. Solo disponen de 8 minutos para organizar sus piezas y escribir la secuencia resultante en una hoja en blanco. **(10 min)**\n\n3. Sin revelar la solución, cada subgrupo describe en una frase: *¿qué dificultades tuvo para reconstruir? ¿El tamaño del soporte influyó en cómo pensó la relación entre las partes?* **(5 min)**\n\n4. El facilitador introduce la pregunta: si latablilla de arcilla babilónica se raspaba para reutilizarse (lo que Goody denomina *palimpsesto funcional*), ¿qué tipo de pensamiento genera un soporte que no guarda huella? Si el papiro permite el rollo continuo, ¿qué tipo de continuidad narrativa exige? **(8 min)**\n\n**Evaluación de segundo orden:** Observar si los participantes comienzan a distinguir entre *contenido* de lo que leen y *condiciones materiales* de posibilidad. No importa qué reconstrucción eligieron; importa si pueden articular por qué el soporte moldeó su estrategia cognitiva.\n\n---\n\n## Módulo 2: Mediación de Lectura (Bibliotecas, Clubes, Centros Culturales)\n\n**Problema que aborda:** Los espacios de lectura tienden a homogenizar formatos (todo en pantalla o todo en papel), sin problematizar cómo el soporte interviene en la experiencia.\n\n**Actividad detonadora (30 min):**\n\n1. Preparar tres estaciones con versiones del *mismo texto* (un fragmento de 400 palabras sobre tecnologías de escritura): (a) fotocopia en papel bond estándar, (b) lectura en pantalla de celular con notificaciones activas, (c) texto escrito a mano en libreta de notas. **(5 min)**\n\n2. Cada participante rota por las tres estaciones. En cada una, debe: leer el fragmento, marcar con pencil las rupturas que perciba, y escribir una frase sobre qué *permite* o qué *impide* ese soporte específico. **(15 min)**\n\n3. Lectura en voz alta de las frases registradas. El mediador agrupa las respuestas sin comentarlas, permitiendo que emergan patrones sobre materialidad y cognición. **(8 min)**\n\n4. Cierre: *¿Qué espacio de lectura habitamos cuando el soporte decide antes que nosotros qué podemos pensar?* **(2 min)**\n\n**Conexión con circuito editorial:** El TSR112 interroga las políticas de digitalización masiva: si todo migra a pantalla, ¿qué episteme se consolida? La mediación de lectura...\n\n> [Nota: texto truncado a 500 palabras del original 772]",
+    "estadisticas": {
+      "palabras": 510,
+      "modelo_usado": "opencode",
+      "fecha_generacion": "2026-04-25T06:14:11.046667",
+      "validacion_extension": "flexible",
+      "postprocesamiento": {
+        "palabras_originales": 772,
+        "artefactos_filtrados": false,
+        "truncado": true,
+        "palabras_finales": 510
+      }
+    },
+    "metadata_entrada": {
+      "genealogia_disponible": true,
+      "problematizacion_disponible": true,
+      "metaanalisis_disponible": true,
+      "autor_principal": "Jack Goody",
+      "concepto_central": "materialidad del soporte"
+    }
+  },
+  "113": {
+    "tsr_id": 113,
+    "titulo": "Leer como apropiación, no como obediencia",
+    "guion_taller": "# TSR113: GUIÓN DE TALLER\n\n## Título del taller\n**\"Que el libro trabaje para ti, no tú para el libro\"**\n*Cuando la lectura se convierte en resistencia*\n\n## Datos generales\n- Duración: 90 minutos\n- Nivel: Intermedio-Avanzado\n- Contextos aplicables: Docencia / Mediación de lectura / Gestión cultural\n- Requisitos: Lectura previa del TSR113 (mínimo sección de genealogía)\n\n## Pregunta detonadora central\n**¿En qué momento tu lectura de un texto se convierte en acto de obediencia y cómo recuperas el sabotage como práctica propia?**\n\n---\n\n## Módulo 1: Docencia (Educación Media y Superior)\n\n**Problema que aborda:** Los protocolos de lectura asignados clausuran la apropiación antes de que ocurra; el estudiantelee para verificar, no para habitar.\n\n**Actividad detonadora (25 min):**\n\n*MATERIALES: 3 fragmentos impresos (200 palabras c/u) del mismo texto fuente con layout diferente (libro, fotocopia deteriorada, pantalla). Los fragmentos deben pertenecer a una sola obra canónica (ej: páginas de *El Aleph* con distintos márgenes, tipografías, errores tipográficos).*\n\n**Paso 1 (5 min):** Repartir un fragmento diferente a cada subgrupo (sin indicar que son del mismo texto). Solicitar lectura en silencio y anotar: tres palabras que resonaron, una zona de incomprensión.\n\n**Paso 2 (10 min):** Mostrar que los tres fragmentos pertenecen al mismo texto. En subgrupos, responder por escrito: ¿Qué decisión editorial transformó tu experiencia de lectura? No discutir aún.\n\n**Paso 3 (10 min):** Fase de confrontación. Cada subgrupo presenta UNA decisión editorial detectada. El grupo larger debe ubicar esa decisión en el espectro Chartier: ¿materialidad que limita o que abre?\n\n**Evaluación de segundo orden:** Observar si los participantes distinguen entre *qué pensaron* y *cómo se posicionaron frente a la forma del texto*. Quien solo reporta contenido sin registrar su relación con el soporte, aún opera en lectura de primer orden.\n\n---\n\n## Módulo 2: Mediación de Lectura (Bibliotecas, Clubes, Centros Culturales)\n\n**Problema que aborda:** Los espacios de lectura guiada tienden a producir comunidad de consumo, no comunidad de apropiación crítica.\n\n**Actividad detonadora (30 min):**\n\n*MATERIALES: Ejemplares deteriorados (marcadores, subrayados, anotaciones de anteriores lectores) + ejemplares vírgenes del mismo título. Registro de notas adhesivas para cada participante.*\n\n**Paso 1 (8 min):** Lectura en voz alta rotativa (3 minutos por participante, sin interrumpir). Primera voz lee del ejemplar deteriorado; segunda voz lee del ejemplar virgen. El grupo solo escucha.\n\n**Paso 2 (12 min):** Escritura en silencio (10 min): Sobre una nota adhesiva, registrar: ¿Dónde sentiste que la voz se detenía en algo que no era el significado? Marcar ese punto en el ejemplar que tienes frente a ti. No explicación, solo marca.\n\n**Paso 3 (10 min):** Exhibir las marcas en conjunto. Sin komentar, observar los patrones. ¿Dónde coinciden las pausas? ¿Dónde diverge la comunidad de lectores de sí misma?\n\n**Conexión con circuito editorial:** El TSR113 desafía la ficción de que el libro editato y corregido es el \"verdadero\". Las bibliotecas como espacios de mediación pueden resistir esa lógica recuperando ejemplares con historia de lectura visible. Programar clubs de lectura que trabajen con libros usados antes que con novedades editoriales es un acto de...\n\n> [Nota: texto truncado a 500 palabras del original 817]",
+    "estadisticas": {
+      "palabras": 510,
+      "modelo_usado": "opencode",
+      "fecha_generacion": "2026-04-25T06:14:56.890649",
+      "validacion_extension": "flexible",
+      "postprocesamiento": {
+        "palabras_originales": 817,
+        "artefactos_filtrados": false,
+        "truncado": true,
+        "palabras_finales": 510
+      }
+    },
+    "metadata_entrada": {
+      "genealogia_disponible": true,
+      "problematizacion_disponible": true,
+      "metaanalisis_disponible": true,
+      "autor_principal": "Roger Chartier",
+      "concepto_central": "prácticas de lectura"
+    }
+  },
+  "114": {
+    "tsr_id": 114,
+    "titulo": "Foucault: la verdad como archivo de enunciados",
+    "guion_taller": "# TSR114: GUIÓN DE TALLER\n\n## Título del taller\n\n**La verdad como archivo: hacer legible lo illegible**\n\n## Datos generales\n\n- Duración: 90 minutos\n- Nivel: Intermedio-Avanzado\n- Contextos aplicables: Docencia / Mediación de lectura / Gestión cultural\n- Requisitos: Lectura previa del TSR114 (mínimo sección de genealogía)\n\n## Pregunta detonadora central\n\n**¿Cómo decide una institución qué verdades son archivables y cuáles quedan fuera del archivo?**\n\n---\n\n## Módulo 1: Docencia (Educación Media y Superior)\n\n**Problema que aborda:** El estudiante reproduce información sin interrogar las condiciones de posibilidad de su propia enunciación.\n\n**Actividad detonadora (25 min):**\n\n1. Distribuir tres fragmentos de textos canónicos sobre archivo (Foucault, Derrida, Benjamin). Cada fragmento debe tener una fecha de publicación diferente (1968, 1995, 2015).\n\n2. Solicitar que los estudiantes identifiquen QUÉ se dice en cada fragmento sobre el archivo. Registros individuales por escrito (5 min).\n\n3. Formar parejas. Cada pareja recibe una pregunta: ¿En qué AÑO se escribieron las condiciones que hacen posible escribir sobre el archivo? No el texto, sino las condiciones. Debaten y registran su respuesta (10 min).\n\n4. Síntesis colectiva: El docente revela que la pregunta no tiene respuesta única. Se abre la tensión: el archivo regula lo decible, pero quienes regulan el archivo ¿bajo qué condiciones enuncian?\n\n**Evaluación de segundo orden:** Observar cómo los estudiantes transitan de la respuesta correcta al reconocimiento de la pregunta mal planteada. ¿Pueden diferenciar entre informar sobre el archivo einterrogar las condiciones del archivo?\n\n---\n\n## Módulo 2: Mediación de Lectura (Bibliotecas, Clubes, Centros Culturales)\n\n**Problema que aborda:** La mediación de lectura opera como filtro editorial sin examinar sus propios criterios de selección.\n\n**Actividad detonadora (30 min):**\n\n1. Seleccionar 5 fragmentos de una obra canónica disponible en el acervo. Deben tener timestamps diferentes (prólogo, introducción, capítulo 1, capítulo 10, nota final).\n\n2. Lectura en voz alta rotativa. Un participante lee un fragmento, el siguiente selecciona otro, sin explicación. Registrar el orden de selección por escrito (10 min).\n\n3. Análisis colectivo: ¿Por qué seleccionaste ese fragmento y no otro? La selección revela criterios implícitos que el participante no elegió conscientemente.\n\n4. Reescritura: Cada participante escribe una sola oración que funcione como \"enunciado\" de las condiciones de selección del grupo. No lo que seleccionaron, sino las reglas que gobernaron la selección (10 min).\n\n**Conexión con circuito editorial:** El TSR114 interroga las políticas de sélection: la biblioteca como archivo de lo decible, no de lo dicho. ¿Qué verdades quedaron fuera del catálogo?\n\n---\n\n## Módulo 3: Gestión Cultural (Programación, Convocatorias, Selección)\n\n**Problema que aborda:** Los criterios de selección en convocatorias culturales reproducen epistemes sin examinarlas.\n\n**Actividad detonadora (30 min):**\n\n1. Presentar dos convocatorias reales de centros culturales (una local, una federal). Osscular los criterios de selección de ambas sin revelar los proyectos seleccionados.\n\n2. Los participantes trabajan en parejas. Cada pareja debe escribir los CRITERIOS IMPLÍCITOS que gobernaron la selección de proyectos, aun sin conocer los resultados (10 min).\n\n3. Comparación con los criterios explícitos publicados. Las brechas entre explícito e implícito operan como el archivo foucaultiano: regulan...\n\n> [Nota: texto truncado a 500 palabras del original 653]",
+    "estadisticas": {
+      "palabras": 510,
+      "modelo_usado": "opencode",
+      "fecha_generacion": "2026-04-25T06:15:13.453319",
+      "validacion_extension": "flexible",
+      "postprocesamiento": {
+        "palabras_originales": 653,
+        "artefactos_filtrados": true,
+        "truncado": true,
+        "palabras_finales": 510
+      }
+    },
+    "metadata_entrada": {
+      "genealogia_disponible": true,
+      "problematizacion_disponible": true,
+      "metaanalisis_disponible": true,
+      "autor_principal": "Michel Foucault",
+      "concepto_central": "arqueología del saber"
+    }
+  },
+  "115": {
+    "tsr_id": 115,
+    "titulo": "Eiségesis: el error que somos",
+    "guion_taller": "# TSR115: GUIÓN DE TALLER\n\n## Título del taller\n\n**\"El error que lees: proyección hermenéutica como práctica\"**\n\n## Datos generales\n\n- Duración: 90 minutos\n- Nivel: Intermedio-Avanzado\n- Contextos aplicables: Docencia / Mediación de lectura / Gestión cultural\n- Requisitos: Lectura previa del TSR115 (mínimo sección de genealogía)\n\n## Pregunta detonadora central\n\n**¿Qué interpretas cuando lees, y cómo distinguishing entre la proyección que habilita y la que sustituye?**\n\n---\n\n## Módulo 1: Docencia (Educación Media y Superior)\n\n**Problema que aborda:** Los estudiantes confunden imponer significados con construir interpretaciones; la crítica al se convierte en censura antes que en diálogo.\n\n**Actividad detonadora (25 min):**\n\n1. Repartir un fragmento breve (200 palabras) de texto filosófico unknown al grupo. Puede ser Gadamer, Ricoeur o cualquier autor del programa.\n\n2. Primera lectura individual silenciosa (3 min). Cada estudiante marca con lápiz dónde su interpretación \"saltó\" — donde comenzó a proyectar antes de que el texto lo sostuviera.\n\n3. Segunda lectura en voz alta, rotativa, sin comentario (7 min). Un lector por párrafo. El grupo escucha sin anotar.\n\n4. Escritura individual: \"Mi projeção vino de...\" (5 min). Registrar tres momentos específicos donde la interpretación avanzó por cuenta propia del lector.\n\n5. Confrontación por pares: Cada estudiante comparte sus tres momentos con un compañero. El compañero indica cuál proyección le parece \"necesaria\" (el error que somos) y cuál \"sustitutiva\" (imposición). No hay consenso necesario (10 min).\n\n**Evaluación de segundo orden:** Observar si los estudiantes pueden distinguir entre proyección habilitante y sustitutiva sin pretender haberlo logrado. ¿Toleran la ambigüedad o inventan certezas?\n\n---\n\n## Módulo 2: Mediación de Lectura (Bibliotecas, Clubes, Centros Culturales)\n\n**Problema que aborda:** Los clubes de lectura tienden al consenso como validación; la discusión \"productiva\" la tensión irresolta que todo texto crítico exige.\n\n**Actividad detonadora (30 min):**\n\n1. Seleccionar un fragmento de obra canónica que el grupo no conoce. Requirement: texto que permita múltiples lecturas sin resolverse (no narrativa lineal).\n\n2. Primera lectura en voz alta por un voluntario (5 min). Los demás escuchan con los ojos cerrados.\n\n3. lectura por voluntario diferente, mismo texto. Diferencia de énfasis, pausa, ritmo (5 min).\n\n4. Registro escrito individual: \"¿Qué escuchaste en la segunda lectura que no estaba en la primera?\" (5 min).\n\n5. Ronda de diferencias: Cada participante nombra UNA diferencia que escuchó. No se argumenta, solo se enuncia. El mediator registra sin evaluar (10 min).\n\n6. Cierre sin resolución: \"Ninguna lectura fue la lectura. ¿Cuál projection toleramos?\" (5 min).\n\n**Conexión con circuito editorial:** Las editoriales que reducen el texto a \"un mensaje\" neutralizan la función crítica del fragmento. La médiation efectiva entrena para sostener la tensión, no para disolverla.\n\n---\n\n## Módulo 3: Gestión Cultural (Programación, Convocatorias, Selección)\n\n**Problema que aborda:** Los comité de selección proyectan sus propios criterios como universalidad; la curaduría se confunde con imposición de gusto.\n\n**Actividad detonadora (30 min):**\n\n1. Presentar tres proyectos culturales (descripciones breves de 100 palabras cada uno) al comité ficticio. Los proyectos deben tener calidad equiparable y orientación diferente.\n\n2. Cada evaluador escreve en privado: \"Mi criterio...\n\n> [Nota: texto truncado a 500 palabras del original 662]",
+    "estadisticas": {
+      "palabras": 510,
+      "modelo_usado": "opencode",
+      "fecha_generacion": "2026-04-25T06:15:27.184089",
+      "validacion_extension": "flexible",
+      "postprocesamiento": {
+        "palabras_originales": 662,
+        "artefactos_filtrados": true,
+        "truncado": true,
+        "palabras_finales": 510
+      }
+    },
+    "metadata_entrada": {
+      "genealogia_disponible": true,
+      "problematizacion_disponible": true,
+      "metaanalisis_disponible": true,
+      "autor_principal": "Hans-Georg Gadamer",
+      "concepto_central": "eiségesis vs. exégesis"
+    }
+  },
+  "116": {
+    "tsr_id": 116,
+    "titulo": "El aforismo como esqueleto del pensamiento",
+    "guion_taller": "# TSR116: GUIÓN DE TALLER\n\n## Título del taller\n\n*El aforismo como esqueleto del pensamiento: condensar sin mutilar*\n\n## Datos generales\n\n- Duración: 90 minutos\n- Nivel: Intermedio-Avanzado\n- Contextos aplicables: Docencia / Mediación de lectura / Gestión cultural\n- Requisitos: Lectura previa del TSR116 (mínimo sección de genealogía)\n\n## Pregunta detonadora central\n\n*¿Dónde termina la condensación legítima y comienza la amputación del pensamiento?*\n\n## Módulo 1: Docencia (Educación Media y Superior)\n\n**Problema que aborda:** Cómo evaluar la capacidad de síntesis sin premiar la vacuidad.\n\n**Actividad detonadora (25 min):**\n\n1. Distribuir tres versiones del mismo aforismo (Recas, Brecht, un estudiante). Sin identificar autores.\n\n2. Cada participante rankingiza privately: ¿cuál \"sintetiza mejor\"? Registrar criterios personales sin consultar neighbors.\n\n3. Grupalmente, solo revelar rankings. Sin discusión aún.\n\n4. Segundo round: ahora con contexto genealógico conocido. Re-ranking.\n\n5. Observación TRCO: ¿qué cambió? ¿El contexto agregó información o reveló que el criterio inicial era insostenible?\n\n**Evaluación de segundo orden:** Registrar CÓMO participantes ajustan criterios entre rondas. ¿Revisan desde supuestos o defend position inicial? El error metodológico es más instructivo que la respuesta \"correcta\".\n\n## Módulo 2: Mediación de Lectura (Bibliotecas, Clubes, Centros Culturales)\n\n**Problema que aborda:** Qué competencias exige el aforismo en lectores no especializados.\n\n**Actividad detonadora (30 min):**\n\n1. Lectura en voz alta de 5 aforismos de la ANTOLOGÍA CANÓNICA (entregable físico). Duración: 2 minutos por texto.\n\n2. Registro escrito individual: primera reacción, pregunta que genera cada texto, conexión con experiencia propia.\n\n3. Lectura cruzada: participantes leen registro de vecino sin diálogo aún. Marcan dónde percibieron \"gaps\" (lugares donde el autor no desarrolló lo que prometió).\n\n4. Cierre grupal: cartografiar los \"gaps\" identificados. ¿Son fallas del texto o exigencias que el lector debe completar?\n\n**Conexión con circuito editorial:** El TSR116 interroga colecciones que premian brevedad sin evaluar si la condensación es estructural u opcode. Mediar implica enseñar a distinguir ambas.\n\n## Módulo 3: Gestión Cultural (Programación, Convocatorias, Selección)\n\n**Problema que aborda:** Cómo evaluar proyectos que proponen formatos breves/resumidos.\n\n**Actividad detonadora (30 min):**\n\n1. Presentación de tres proyectos institucionales reales (convocatoria omitida). Cada uno: sinopsis de 3 líneas, presupuesto, objetivo.\n\n2. Participantes aplican filtro TRCO: ¿la síntesis propuesta es conclusion de proceso o sustituto de proceso?\n\n3. Ranking de Prioridd con justificación escrita: no \"qué me gusta más\", sino \"cuál demuestra dominio del tema desde la brevity\".\n\n4. Grupalmente: cartografiar criterios usados. Identificar dónde se conflactó \"brevedad\" con \"superficialidad\".\n\n**Criterios TRCO para convocatorias:**\n\n- ¿El proyecto define qué condensación SE NIEGA (no solo qué se incluye)?\n- ¿El presupuesto refleja real o asume que lo breve cuesta menos?\n- ¿Los indicadores de impacto miden comprensión o mera retención?\n\n## Cierre generativo (10 min)\n\nTres preguntas abiertas para reflexión continua:\n\n1. *El próximo TSR117 conecta con \"archivo y glitch\". ¿Cómo se relaciona el aforismo como estructura mínima con el archivo como acumulación máxima?*\n\n2. *En tu práctica profesional: ¿dónde NECESITAS sintetizar y dónde NECESITAS desarrollar? ¿Puedes distinguir beide operaciones?*\n\n3. *La tensión Schlegel-Blanchot persiste: el fragmento como promessa o como resto. ¿Con cuál habitás más cómodamente y por qué eso importa?*\n",
+    "estadisticas": {
+      "palabras": 506,
+      "modelo_usado": "opencode",
+      "fecha_generacion": "2026-04-25T06:15:41.279301",
+      "validacion_extension": "flexible",
+      "postprocesamiento": {
+        "palabras_originales": 506,
+        "artefactos_filtrados": true,
+        "truncado": false,
+        "palabras_finales": 506
+      }
+    },
+    "metadata_entrada": {
+      "genealogia_disponible": true,
+      "problematizacion_disponible": true,
+      "metaanalisis_disponible": true,
+      "autor_principal": "Javier Recas",
+      "concepto_central": "aforismo como forma autónoma"
+    }
+  },
+  "117": {
+    "tsr_id": 117,
+    "titulo": "Nietzsche: el aforismo como rebelión contra la totalidad",
+    "guion_taller": "# TSR117: GUIÓN DE TALLER\n\n## Título del taller\n**Fragmentos que sangran: el aforismo como resistencia a la totalidad algorítmica**\n\n## Datos generales\n- Duración: 90 minutos\n- Nivel: Intermedio-Avanzado\n- Contextos aplicables: Docencia / Mediación de lectura / Gestión cultural\n- Requisitos: Lectura previa del TSR117 (mínimo sección de genealogía)\n\n## Pregunta detonadora central\n**¿Puede un fragmento resistir un algoritmo que optimiza totalidad?**\n\n---\n\n## Módulo 1: Docencia (Educación Media y Superior)\n\n**Problema que aborda:** La enseñanza filosófica opera bajo lógica sistémica — resúmenes, unidades, competencias evaluables — que reproduce la totalidad contra la cual el aforismo nietzschiano se rebela.\n\n**Actividad detonadora (25 min):**\n\n1. Distribuir fragmentos seleccionados de *Humano, demasiado humano* (5 aforismos, máximo 300 palabras totales). No proporcionar contexto biográfico.\n\n2. Ejercicio de **lectura invertida**: Cada estudiante recibe un aforismo diferente. El docente no explica. Los estudiantes deben identificar:\n   - Qué presupone elFragmento como totalidad negada\n   - Qué tensión genera sin resolver\n   - Qué pregunta quedan sí respuesta\n\n3. Formar tríadas. Cada estudiante presenta su aforismo a otros dos sin comentarios explicativos. Los compañeros registran: ¿qué comprensión se logró? ¿Qué resistencias aparecieron?\n\n4. Primera discusión colectiva (8 min): ¿Es posible enseñar el aforismo sin sistematizarlo?\n\n**Evaluación de segundo Orden:** Observar si los estudiantes intentan \"completar\" el fragmento con explicaciones. La resistencia a completar es indicador de comprensión del aforismo como rebelsi against totality.\n\n---\n\n## Módulo 2: Mediación de Lectura (Bibliotecas, Clubes, Centros Culturales)\n\n**Problema que aborda:** Los clubes de lectura operan bajo presión de \"tener algo que decir\" — discusión estructurada, consenso, conclusions — que neutraliza la potencia fragmentaria del texto.\n\n**Actividad detonadora (30 min):**\n\n1. Lectura en voz alta rotativa: Un participante lee un aforismo. Silencio de 60 segundos. El siguiente lee otro. No hay comentarios entre lecturas.\n\n2. **Registro de brechas**: Cada participante escribe en una tarjeta qué NO entendió. NO qué entendió. Las tarjetas se pegan en un mural sin organizarse.\n\n3. Ejercicio de **aproximación lateral**: En pequeños grupos (3-4 personas), usar un aforismo como punto de partida para escribir 50 palabras sobre algo completamente diferente. No parafrasear. Usar como detonador, no como contenido.\n\n4. Segunda discusión colectiva (10 min): ¿Qué políticas editoriales refuerzan la totalidad? ¿Cómo seleccionar fragmentos que interrumpan en lugar de completar?\n\n**Conexión con circuito editorial:** El TSR117 interpela las políticas de \"libros completos\" y \"ediciones definitivas\". Los clubes de lectura pueden operar como resistencia: fragmentos antes que totalidades, publicaciones parciales antes que obras completas.\n\n---\n\n## Módulo 3: Gestión Cultural (Programación, Convocatorias, Selección)\n\n**Problema que aborda:** Las convocatorias culturales evaluan proyectos bajo criterios de \"coherencia\", \"completitud\", \"objetivos medibles\" — métricas que refuerzan lógica totalizante.\n\n**Actividad detonadora (30 min):**\n\n1. Revisión de 3 convocatorias reales de programas culturales (fondos, residencias, becas). Identificar en cuáles los criterios premian fragmentación versus totalidad.\n\n   - ¿El proyecto INTERRUMPE o COMPLETA una tradición?\n   - ¿El proyecto PRODUCE preguntas o proporciona respuestas?\n\n3. Ejercicio de **evaluación resistida**: En grupos, evaluar propuestas existentes (reales o simuladas) siguiendo criterio inverso: premiar lo incompleto, lo fragmentario, lo que genera...\n\n> [Nota: texto truncado a 500 palabras del original 631]",
+    "estadisticas": {
+      "palabras": 510,
+      "modelo_usado": "opencode",
+      "fecha_generacion": "2026-04-25T06:16:05.658666",
+      "validacion_extension": "flexible",
+      "postprocesamiento": {
+        "palabras_originales": 636,
+        "artefactos_filtrados": true,
+        "truncado": true,
+        "palabras_finales": 510
+      }
+    },
+    "metadata_entrada": {
+      "genealogia_disponible": true,
+      "problematizacion_disponible": true,
+      "metaanalisis_disponible": true,
+      "autor_principal": "Friedrich Nietzsche",
+      "concepto_central": "aforismo como ruptura sistemática"
+    }
+  },
+  "118": {
+    "tsr_id": 118,
+    "titulo": "Freire: alfabetizar es desactivar el hechizo",
+    "guion_taller": "# TSR118: GUIÓN DE TALLER\n\n## Título del taller\n\n**Alfabetizar es desactivar el hechizo: la palabra como campo de batalla ontológico**\n\n## Datos generales\n\n- Duración: 90 minutos\n- Nivel: Intermedio-Avanzado\n- Contextos aplicables: Docencia / Mediación de lectura / Gestión cultural\n- Requisitos: Lectura previa del TSR118 (mínimo sección de genealogía)\n\n## Pregunta detonadora central\n\n**¿Cómo puede un acto de lectura —o de escritura— romper un encantamiento que ninguna institución ha reconocido como tal?**\n\n---\n\n## Módulo 1: Docencia (Educación Media y Superior)\n\n**Problema que aborda:** El estudiante no lee el mundo que lo rodea; lee solo las letras que le asignan.\n\n**Actividad detonadora (25 min):**\n\n1. Dividir el grupo en parejas. Cada persona recibe una hoja en blanco.\n2. Enlace 1: Escribir en 3 minutos el nombre de 5 cosas que \"no se pueden decir\" en el espacio público de su institución.\n3. Enlace 2: Intercambiar hojas. Cada quien lee en silencio lo escrito por la otra persona.\n4. Enlace 3: Reescribir those 5 cosas, pero transformándolas en preguntas que podrían hacerse en clase sin ser calladas.\n5. Cierre: Cada pareja lee solo UNA de sus preguntastransformadas. El grupo registra cuántas fueron compartidas versus cuántas calladas.\n\n**Evaluación de segundo orden:** ¿Cuántos participantes necesitaron modificar su expresión original para poder escribirla? ¿Qué dice ese movimiento sobre la libertad de expresión que se practica en el aula?\n\n---\n\n## Módulo 2: Mediación de Lectura (Bibliotecas, Clubes, Centros Culturales)\n\n**Problema que aborda:** La lectura colectiva se domestica en el consenso; nadie quiere ser el primero en romper el hechizo.\n\n**Actividad detonadora (30 min):**\n\n1. Seleccionar 3 fragmentos breves (máx. 50 palabras cada uno) del TSR118 que contengan tensiones no resueltas.\n2. Distribuir los fragmentos. Cada participante lee el suyo en voz alta, de forma individual, sin comentarios previos.\n3. Enlace 1: Los participantes se organizan en tríos. Cada quien resumen su fragmento en UNA frase. Los otros dos escuchan sin evaluar.\n4. Enlace 2: Cada trío debe escribir una pregunta que el fragmento SÍ responde Y una pregunta que el fragmento NO puede responder. Ambas se escriben.\n5. Enlace 3: Los tríos intercambian sus preguntas con otro trío. El nuevo trío debe identificar cuál textual y cuál es proyección del lector.\n\n**Conexión con circuito editorial:** El bibliotecario o mediador no es el que tiene las respuestas; es el que sostiene el espacio donde las preguntas puedenStay without ser respondidas.\n\n---\n\n## Módulo 3: Gestión Cultural (Programación, Convocatorias, Selección)\n\n**Problema que aborda:** Las convocatorias culturales premian proyectos que \"hacen sentido\" pero no premian los queDesactivan el hechizo.\n\n**Actividad detonadora (30 min):**\n\n1. Presentar 2 convocatorias reales de gestión cultural ( locales o nacionales).-Ocultar los nombres de los proyectos ganadores.\n2. En grupos de 4, analizar los criterios de selección de cada convocatoria.\n3. Enlace 1: Identificar qué criterios permitirían aprobar un proyecto que propone DESACTIVAR un hechizo institucional (sin naming explicitly cuál). Escribir esos criterios.\n4. Enlace 2: Comparar los criterios identificados con los criterios reales de las convocatorias. ¿Cuántos coinciden? ¿Cuántos...\n\n> [Nota: texto truncado a 500 palabras del original 632]",
+    "estadisticas": {
+      "palabras": 510,
+      "modelo_usado": "opencode",
+      "fecha_generacion": "2026-04-25T06:16:17.968634",
+      "validacion_extension": "flexible",
+      "postprocesamiento": {
+        "palabras_originales": 632,
+        "artefactos_filtrados": true,
+        "truncado": true,
+        "palabras_finales": 510
+      }
+    },
+    "metadata_entrada": {
+      "genealogia_disponible": true,
+      "problematizacion_disponible": true,
+      "metaanalisis_disponible": true,
+      "autor_principal": "Paulo Freire",
+      "concepto_central": "alfabetización crítica"
+    }
+  },
+  "119": {
+    "tsr_id": 119,
+    "titulo": "Leer en voz alta: erotizar la sintaxis",
+    "guion_taller": "Hay caracteres mixtos en el contenido. Voy a corregir el guion completamente en español:\nLet me check the file I created and fix the encoding issues:\nEl guion de taller para TSR119 está completo en `/home/silicius_blood/cíclope_mitologías_verbales/cíclope_en_siete_capas/TSR119_GUION_TALLER.md` (~530 palabras).\n\nEstructura ejecutada:\n- **Módulo 1 (25 min):** Mapeo vocal — dibujar el recorrido de la propia voz durante la lectura\n- **Módulo 2 (30 min):** Lectura superpuesta de tres fragmentos con rotación ciega\n- **Módulo 3 (30 min):** Evaluación de proyectos según criterios TRCO\n- **Cierre (10 min):** Tres preguntas abiertas que mantienen la tensión Schlegel-Blanchot\n",
+    "estadisticas": {
+      "palabras": 94,
+      "modelo_usado": "opencode",
+      "fecha_generacion": "2026-04-25T06:42:36.169514",
+      "validacion_extension": "fuera",
+      "postprocesamiento": {
+        "palabras_originales": 94,
+        "artefactos_filtrados": false,
+        "truncado": false,
+        "palabras_finales": 94
+      }
+    },
+    "metadata_entrada": {
+      "genealogia_disponible": true,
+      "problematizacion_disponible": true,
+      "metaanalisis_disponible": true,
+      "autor_principal": "Severo Sarduy",
+      "concepto_central": "lectura como performance corporal"
+    }
+  },
+  "120": {
+    "tsr_id": 120,
+    "titulo": "Leer para dejar de ser el mismo",
+    "guion_taller": "# TSR120: GUIÓN DE TALLER\n\n## Título del taller\n**¿Leer para dejar de ser el mismo o para confirmar quién somos? La lectura como transformación y como resistencia**\n\n## Datos generales\n- Duración: 90 minutos\n- Nivel: Intermedio-Avanzado\n- Contextos aplicables: Docencia / Mediación de lectura / Gestión cultural\n- Requisitos: Lectura previa del TSR120 (mínimo sección de genealogía)\n\n## Pregunta detonadora central\n**¿Puede una lectura transformarnos sin que nosotros queramos serlo, y queremos seguir leyendo?**\n\n---\n\n## Módulo 1: Docencia (Educación Media y Superior)\n\n**Problema que aborda:** La lectura se enseña como decodificación y no como riesgo hermenéutico.\n\n**Actividad detonadora (25 min):**\n\n1. Distribuir fragmentos de tres lectores históricos documentados por Chartier: Montaigne, de San Juan de la Cruz, un burgués francés del siglo XVII. (Textos de 200 palabras cada uno, impresos en papel diferente.)\n\n2. Solicitar que cada estudiante elija UN fragmento y lo lea en voz alta dos veces: la primera interpretando las ideas del autor, la segunda resistiéndose activamente a esas ideas con subrayados y anotaciones marginales.\n\n3. Registrar por escrito: ¿Qué subrayaste? ¿Qué contrargumentaste? ¿Sientes que tu posición cambió o se fortaleció?\n\n4. En plenaria de 10 minutos: compartir únicamente los gestos de resistencia, no las ideas. ¿Quién sintió que su lectura se defendía? ¿Quién sintió que cedió?\n\n\n---\n\n## Módulo 2: Mediación de Lectura (Bibliotecas, Clubes, Centros Culturales)\n\n**Problema que aborda:** Los espacios de lectura ofrecen comunión textual pero evitan el conflicto hermenéutico.\n\n**Actividad detonadora (30 min):**\n\n1. Seleccionar un texto de 400 palabras que presente una tensión irresoluble (sugerencia: un fragmento de Blanchot sobre la lectura, o un pasaje de Spivak sobre habla y silencio subalterno).\n\n2. Primera vuelta: lectura en voz alta por un voluntario, sin interrupciones. Silencio absoluto posterior de 2 minutos.\n\n3. Segunda vuelta: lectura fragmentada. Cada participante lee una oración en voz alta, sin contexto previo. No se permite explicar ni justificar.\n\n4. Escritura durante 5 minutos: registrar qué fragmento resonó, cuál quedó vacío, cuál produjo una reacción física.\n\n5. Discusión estructurada: ¿El texto los tocó o los rechazó? ¿Sostienen esa diferencia?\n\n**Conexión con circuito editorial:** El TSR120 cuestiona las políticas editoriales que selecionan textos \"accesibles\". La accesibilidad no garantiza transformación; a veces el rechazo productivo es más valioso que la comprensión inmediata.\n\n---\n\n## Módulo 3: Gestión Cultural (Programación, Convocatorias, Selección)\n\n**Problema que aborda:** Los criterios de selección de actividades priorizan alcance quantitativo sobre riesgo hermenéutico.\n\n**Actividad detonadora (30 min):**\n\n1. Presentar dos propuestas de taller para una programación trimestral: Taller A: \"Lectura para el bienestar\" / Taller B: \"Lectura que te cambia sin que lo sepas\".\n\n2. Evaluar según criterios TRCO (no según inscripción proyectada):\n- ¿El taller propone comprender o resistir?\n- ¿Sostiene tensión sin resolver?\n- ¿El participante sale igual o sale con pregunta?\n\n3. Reescribir una de las propuestas integrando al menos UN criterio TRCO de transformación sin promesa.\n\n**Criterios TRCO para convocatorias:**\n- ¿El proyecto define \"lectura\" como riesgo hermenéutico o como consumo cultural?\n- ¿La evaluación mide cambio de perspectiva o número de asistentes?\n\n---\n\n## Cierre generativo (10 min)\n\nTres preguntas abiertas para reflexión continua:\n\n1. **Conexión con siguiente TSR:** ¿Qué lectura futura necesitarás para sostener la transformación que este taller inició?\n\n2. **Práctica propia:** Antes de tu próxima lectura, ¿puedes anticipar qué resistirá? ¿Para qué sirve saberlo?\n\n3. **Tensión sostenida:** La lectura transforma cuando no sabemos que está ocurriendo. ¿Aceptamos seguir leyendo sin garantía?\n\n---\n\n**trco** | SISTEMA DE LECTURA PEDAGOGÍA SEGUNDA  \nmorel.ia | @cultura_libre_código_libre\n",
+    "estadisticas": {
+      "palabras": 575,
+      "modelo_usado": "opencode",
+      "fecha_generacion": "2026-04-25T06:17:41.565349",
+      "validacion_extension": "flexible",
+      "postprocesamiento": {
+        "palabras_originales": 619,
+        "artefactos_filtrados": true,
+        "truncado": false,
+        "palabras_finales": 575
+      }
+    },
+    "metadata_entrada": {
+      "genealogia_disponible": true,
+      "problematizacion_disponible": true,
+      "metaanalisis_disponible": true,
+      "autor_principal": "Roger Chartier",
+      "concepto_central": "lectura como transformación"
+    }
+  }
+}

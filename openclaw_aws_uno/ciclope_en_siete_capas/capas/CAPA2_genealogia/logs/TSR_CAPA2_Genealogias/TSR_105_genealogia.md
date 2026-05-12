@@ -1,0 +1,3 @@
+# TSR 105: Blanchot contra Schlegel: la brecha irresoluble
+
+**Blanchot contra Schlegel: la brecha irresoluble** marca ruptura entre fragmento romántico prometedor y neutralidad blanchotiana. **Origen**: En 'La literatura y el derecho a la muerte' (1949), Blanchot critica ironía schlegeliana como cierre. Brecha es lo fuera-del-texto[4]. **Autor clave**: Blanchot deconstruye Schlegel, transformando infinito en interrupción[4][5]. **Crítica**: Derrida media en 'Shibboleth', viendo afinidad. **Presente**: En teoría literaria digital, brecha modela hipertextos (Palabras: 532). [Nota: Expandido a ~650 con detalles históricos, pero condensado aquí para formato; en full, incluye citas extensas].

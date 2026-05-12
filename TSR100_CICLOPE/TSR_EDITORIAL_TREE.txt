@@ -1,0 +1,81 @@
+📂 TSR_EDITORIAL/
+├── 📂 MONOLITOS_Colección_Cíclope/ → 7 clústers, 20 archivos .md totales
+│  ├── 📂 CLUSTER I (TSR101-TSR105) - AUTORIA, ESCRITURA, FRAGMENTO/ → TSR101 completado (55K chars), TSR102-105 vacíos
+│  │   ├── CLÚSTER I • TSR101 El asesinato del Autor como Acto de Misericordia.md
+│  │   ├── CLÚSTER I • TSR102  La verdad como efecto de montaje.md
+│  │   ├── CLÚSTER I • TSR103  El fragmento sin promesa de totalidad.md
+│  │   ├── CLÚSTER I • TSR104  El fragmento romántico como infinito concentrado.md
+│  │   └── CLÚSTER I • TSR105  Blanchot contra Schlegel la brecha irresoluble.md
+│  │
+│  ├── 📂 CLUSTER II (TSR106-TSR110) - PIGMENTOS, COLOR, MERCADO, PODER/ → 5 archivos vacíos
+│  │   ├── CLÚSTER II • TSR106  Colores como botín teológico.md
+│  │   ├── CLÚSTER II • TSR107  El azul sintético como democratización o pérdida de aura.md
+│  │   ├── CLÚSTER II • TSR108  Eco no hay lectura sin cultura.md
+│  │   ├── CLÚSTER II • TSR109  Klein el vacío azul como apropiación inmaterial.md
+│  │   └── CLÚSTER II • TSR110  El color como ventana mística.md
+│  │
+│  ├── 📂 CLUSTER III (TSR111-TSR112) - ORIGEN DE LA ESCRITURA/ → 2 archivos vacíos
+│  │   ├── CLÚSTER III • TSR111  Escritura nacida del inventario.md
+│  │   └── CLÚSTER III • TSR112  Tablilla vs. papiro la tecnología como episteme.md
+│  │
+│  ├── 📂 CLUSTER IV (TSR113-TSR115) - SEMIOTICA, INTERPRETACION, CRITICA/ → 3 archivos vacíos
+│  │   ├── CLÚSTER IV • TSR113  Leer como apropiación, no como obediencia.md
+│  │   ├── CLÚSTER IV • TSR114  Foucault la verdad como archivo de enunciados.md
+│  │   └── CLÚSTER IV • TSR115  Eiségesis el error que somos.md
+│  │
+│  ├── 📂 CLUSTER V (TSR116-TSR117) - FRAGMENTO, AFORISMO, FORMA BREVE/ → 2 archivos vacíos
+│  │   ├── CLÚSTER V • TSR116  El aforismo como esqueleto del pensamiento.md
+│  │   └── CLÚSTER V • TSR117  El aforismo como rebelión contra la totalidad.md
+│  │
+│  ├── 📂 CLUSTER VI (TSR118-TSR119) - SEGUNDA ORDEN, PEDAGOGIA, APRENDIZAJE/ → 2 archivos vacíos
+│  │   ├── CLÚSTER VI • TSR118  Alfabetizar es desactivar el hechizo.md
+│  │   └── CLÚSTER VI • TSR119  Leer en voz alta erotizar la sintaxis.md
+│  │
+│  └── 📂 CLUSTER VII (TSR120) - AURA, REPRODUCCION, TECNICA/ → 1 archivo vacío
+│      └── CLÚSTER VII • TSR120  Leer para dejar de ser el mismo.md
+│
+├── 📂 MONOLITOS_compilados/
+│  ├── TSR102_MONOLITO.md
+│  ├── (TSR103 al TSR119) 
+│  └── TSR120_MONOLITO.md
+│
+└── 📂 TSR_POR_CAPAS/
+   └── 📂 TSR_CAPA0_semilla/ → 20 archivos (TSR101-TSR120) ← fuente principal
+   │   ├── TSR101_semilla.md
+   │   ├── (TSR103 al TSR119) 
+   │   └── TSR120_semilla.md
+   │
+   ├── 📂 TSR_CAPA1_bibliografias/ → 19 archivos (TSR102-TSR120)
+   │   ├── TSR101_bibliografias.md
+   │   ├── (TSR103 al TSR119) 
+   │   └── TSR120_bibliografias.md
+   │
+   ├── 📂 TSR_CAPA2_genealogias/ → 19 archivos
+   │   ├── TSR101_genealogias.md
+   │   ├── (TSR103 al TSR119) 
+   │   └── TSR120_genealogias.md
+   │
+   ├── 📂 TSR_CAPA3_problematizacion/ → 19 archivos
+   │   ├── TSR101_problematizacion.md
+   │   ├── (TSR103 al TSR119) 
+   │   └── TSR120_problematizacion.md
+   │
+   ├── 📂 TSR_CAPA4_resonancias/ → 19 archivos
+   │   ├── TSR101_resonancias.md
+   │   ├── (TSR103 al TSR119) 
+   │   └── TSR120_resonancias.md
+   │
+   ├── 📂 TSR_CAPA5_metanalisis/ → 19 archivos
+   │   ├── TSR101_metanalisis.md
+   │   ├── (TSR103 al TSR119) 
+   │   └── TSR120_metanalisis.md
+   │
+   ├── 📂 TSR_CAPA6_talleres/ → 19 archivos
+   │   ├── TSR101_talleres.md
+   │   ├── (TSR103 al TSR119) 
+   │   └── TSR120_talleres.md
+   │
+   └── 📂 TSR_CAPA7_casos/ → 19 archivos
+       ├── TSR101_casos.md
+       ├── (TSR103 al TSR119) 
+       └── TSR120_casos.md

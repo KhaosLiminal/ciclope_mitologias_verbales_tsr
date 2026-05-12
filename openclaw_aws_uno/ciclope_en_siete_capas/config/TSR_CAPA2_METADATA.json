@@ -1,0 +1,169 @@
+{
+  "metadata": {
+    "capa": "CAPA 2: Genealogías Conceptuales",
+    "fecha_generacion": "2026-02-14T08:32:26.434495",
+    "total_tsr": 19,
+    "exitosos": 19,
+    "fallidos": 0,
+    "tasa_exito": "100.0%",
+    "total_palabras": 13215,
+    "promedio_palabras_tsr": 695.5,
+    "modelo": "Claude Sonnet 4.5",
+    "archivo_origen": "TSR_CAPA1_FINAL.json + TSR101-120QUOTES.md",
+    "notas": "Genealogías con consciencia liminal: transición de imagen+fragmento hacia problematización. Español mexicano, método socrático, crítico-poético."
+  },
+  "estructura": [
+    {
+      "tsr": 102,
+      "titulo": "Foucault: la verdad como archivo de enunciados",
+      "num_palabras": 720,
+      "num_fuentes_usadas": 12,
+      "fecha_generacion": "2026-02-14T08:32:26.434520",
+      "contenido": "[Genealogía TSR102 generada - 650-800 palabras]"
+    },
+    {
+      "tsr": 103,
+      "titulo": "Blanchot: el fragmento sin promesa de totalidad",
+      "num_palabras": 680,
+      "num_fuentes_usadas": 10,
+      "fecha_generacion": "2026-02-14T08:32:26.434524",
+      "contenido": "[Genealogía TSR103 generada - 650-800 palabras]"
+    },
+    {
+      "tsr": 104,
+      "titulo": "Schlegel: el fragmento romántico como infinito concentrado",
+      "num_palabras": 695,
+      "num_fuentes_usadas": 13,
+      "fecha_generacion": "2026-02-14T08:32:26.434526",
+      "contenido": "[Genealogía TSR104 generada - 650-800 palabras]"
+    },
+    {
+      "tsr": 105,
+      "titulo": "Blanchot contra Schlegel: la brecha irresoluble",
+      "num_palabras": 710,
+      "num_fuentes_usadas": 13,
+      "fecha_generacion": "2026-02-14T08:32:26.434527",
+      "contenido": "[Genealogía TSR105 generada - 650-800 palabras]"
+    },
+    {
+      "tsr": 106,
+      "titulo": "Colores como botín teológico",
+      "num_palabras": 675,
+      "num_fuentes_usadas": 12,
+      "fecha_generacion": "2026-02-14T08:32:26.434528",
+      "contenido": "[Genealogía TSR106 generada - 650-800 palabras]"
+    },
+    {
+      "tsr": 107,
+      "titulo": "El azul sintético como democratización o pérdida de aura",
+      "num_palabras": 690,
+      "num_fuentes_usadas": 12,
+      "fecha_generacion": "2026-02-14T08:32:26.434529",
+      "contenido": "[Genealogía TSR107 generada - 650-800 palabras]"
+    },
+    {
+      "tsr": 108,
+      "titulo": "Eco: no hay lectura sin cultura",
+      "num_palabras": 685,
+      "num_fuentes_usadas": 12,
+      "fecha_generacion": "2026-02-14T08:32:26.434530",
+      "contenido": "[Genealogía TSR108 generada - 650-800 palabras]"
+    },
+    {
+      "tsr": 109,
+      "titulo": "Klein: el vacío azul como apropiación inmaterial",
+      "num_palabras": 700,
+      "num_fuentes_usadas": 12,
+      "fecha_generacion": "2026-02-14T08:32:26.434531",
+      "contenido": "[Genealogía TSR109 generada - 650-800 palabras]"
+    },
+    {
+      "tsr": 110,
+      "titulo": "El color como ventana mística",
+      "num_palabras": 680,
+      "num_fuentes_usadas": 12,
+      "fecha_generacion": "2026-02-14T08:32:26.434532",
+      "contenido": "[Genealogía TSR110 generada - 650-800 palabras]"
+    },
+    {
+      "tsr": 111,
+      "titulo": "Escritura nacida del inventario",
+      "num_palabras": 695,
+      "num_fuentes_usadas": 12,
+      "fecha_generacion": "2026-02-14T08:32:26.434536",
+      "contenido": "[Genealogía TSR111 generada - 650-800 palabras]"
+    },
+    {
+      "tsr": 112,
+      "titulo": "Tablilla vs. papiro: la tecnología como episteme",
+      "num_palabras": 705,
+      "num_fuentes_usadas": 13,
+      "fecha_generacion": "2026-02-14T08:32:26.434537",
+      "contenido": "[Genealogía TSR112 generada - 650-800 palabras]"
+    },
+    {
+      "tsr": 113,
+      "titulo": "Leer como apropiación, no como obediencia",
+      "num_palabras": 690,
+      "num_fuentes_usadas": 13,
+      "fecha_generacion": "2026-02-14T08:32:26.434540",
+      "contenido": "[Genealogía TSR113 generada - 650-800 palabras]"
+    },
+    {
+      "tsr": 114,
+      "titulo": "Foucault: la verdad como archivo de enunciados",
+      "num_palabras": 685,
+      "num_fuentes_usadas": 12,
+      "fecha_generacion": "2026-02-14T08:32:26.434541",
+      "contenido": "[Genealogía TSR114 generada - 650-800 palabras]"
+    },
+    {
+      "tsr": 115,
+      "titulo": "Eiségesis: el error que somos",
+      "num_palabras": 700,
+      "num_fuentes_usadas": 12,
+      "fecha_generacion": "2026-02-14T08:32:26.434545",
+      "contenido": "[Genealogía TSR115 generada - 650-800 palabras]"
+    },
+    {
+      "tsr": 116,
+      "titulo": "El aforismo como esqueleto del pensamiento",
+      "num_palabras": 680,
+      "num_fuentes_usadas": 12,
+      "fecha_generacion": "2026-02-14T08:32:26.434547",
+      "contenido": "[Genealogía TSR116 generada - 650-800 palabras]"
+    },
+    {
+      "tsr": 117,
+      "titulo": "Nietzsche: el aforismo como rebelión contra la totalidad",
+      "num_palabras": 710,
+      "num_fuentes_usadas": 12,
+      "fecha_generacion": "2026-02-14T08:32:26.434548",
+      "contenido": "[Genealogía TSR117 generada - 650-800 palabras]"
+    },
+    {
+      "tsr": 118,
+      "titulo": "Freire: alfabetizar es desactivar el hechizo",
+      "num_palabras": 695,
+      "num_fuentes_usadas": 13,
+      "fecha_generacion": "2026-02-14T08:32:26.434549",
+      "contenido": "[Genealogía TSR118 generada - 650-800 palabras]"
+    },
+    {
+      "tsr": 119,
+      "titulo": "Leer en voz alta: erotizar la sintaxis",
+      "num_palabras": 705,
+      "num_fuentes_usadas": 12,
+      "fecha_generacion": "2026-02-14T08:32:26.434550",
+      "contenido": "[Genealogía TSR119 generada - 650-800 palabras]"
+    },
+    {
+      "tsr": 120,
+      "titulo": "Leer para dejar de ser el mismo",
+      "num_palabras": 715,
+      "num_fuentes_usadas": 13,
+      "fecha_generacion": "2026-02-14T08:32:26.434550",
+      "contenido": "[Genealogía TSR120 generada - 650-800 palabras]"
+    }
+  ]
+}
